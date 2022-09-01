@@ -35,7 +35,7 @@
       "size": 96,
       "tags": 64,
       "timestamp": 87,
-      "title": 123
+      "title": 440
     },
     "hidden_columns": [
       "last_modified",
@@ -81,6 +81,18 @@
     "hidden_columns": []
   },
   "gui_view_history": [
+    [
+      5,
+      "Calling a Wolf a Wolf"
+    ],
+    [
+      4,
+      "The Anthropocene Reviewed: Essays on a Human-Centered Planet"
+    ],
+    [
+      3,
+      "The Linux Programming Interface: A Linux and UNIX System Programming Handbook"
+    ],
     [
       2,
       "Hashi: A short story"
