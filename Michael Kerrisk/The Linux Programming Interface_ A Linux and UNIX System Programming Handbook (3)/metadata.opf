@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0699f6b-7542-446a-a3b6-39079064da7a</dc:identifier>
+        <dc:title>The Linux Programming Interface: A Linux and UNIX System Programming Handbook</dc:title>
+        <dc:creator opf:file-as="Kerrisk, Michael" opf:role="aut">Michael Kerrisk</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-10T23:00:00+00:00</dc:date>
+        <dc:publisher>O'Reilly Distribution</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B004OEJMZM</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Kerrisk&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-08-31T19:53:30.796660+00:00"/>
+        <meta name="calibre:title_sort" content="Linux Programming Interface: A Linux and UNIX System Programming Handbook, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

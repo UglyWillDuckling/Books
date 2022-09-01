@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8c28f37d-cee1-4fce-b2e3-3a7f9a6f143e</dc:identifier>
+        <dc:title>Hashi: A short story</dc:title>
+        <dc:creator opf:file-as="Kerghans, Herko" opf:role="aut">Herko Kerghans</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-14T22:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07RY5B7JH</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Herko Kerghans&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-08-31T19:44:55+00:00"/>
+        <meta name="calibre:title_sort" content="Hashi: A short story"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;local&quot;, &quot;user&quot;: &quot;viewer&quot;, &quot;annotation&quot;: {&quot;end_cfi&quot;: &quot;/2/4/2/18/2/1:51&quot;, &quot;highlighted_text&quot;: &quot;lips&quot;, &quot;spine_index&quot;: 1, &quot;spine_name&quot;: &quot;text/part0000.html&quot;, &quot;start_cfi&quot;: &quot;/2/4/2/18/2/1:47&quot;, &quot;style&quot;: {&quot;kind&quot;: &quot;color&quot;, &quot;type&quot;: &quot;builtin&quot;, &quot;which&quot;: &quot;green&quot;}, &quot;timestamp&quot;: &quot;2022-08-31T19:45:23.573Z&quot;, &quot;toc_family_titles&quot;: [&quot;Start&quot;], &quot;type&quot;: &quot;highlight&quot;, &quot;uuid&quot;: &quot;9UAtX9wrfh5rZjUG-nKA3Q&quot;}}"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;local&quot;, &quot;user&quot;: &quot;viewer&quot;, &quot;annotation&quot;: {&quot;end_cfi&quot;: &quot;/2/4/2/22/2/1:185&quot;, &quot;highlighted_text&quot;: &quot;he lifts a hand to the crown &quot;, &quot;notes&quot;: &quot;test note&quot;, &quot;spine_index&quot;: 1, &quot;spine_name&quot;: &quot;text/part0000.html&quot;, &quot;start_cfi&quot;: &quot;/2/4/2/22/2/1:157&quot;, &quot;style&quot;: {&quot;kind&quot;: &quot;color&quot;, &quot;type&quot;: &quot;builtin&quot;, &quot;which&quot;: &quot;purple&quot;}, &quot;timestamp&quot;: &quot;2022-08-31T19:45:59.638Z&quot;, &quot;toc_family_titles&quot;: [&quot;Start&quot;], &quot;type&quot;: &quot;highlight&quot;, &quot;uuid&quot;: &quot;t1IaPVgS0sAuJvAZLpGMig&quot;}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
