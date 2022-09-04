@@ -10,6 +10,9 @@
         <dc:publisher>O'Reilly Distribution</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">B004OEJMZM</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>unix</dc:subject>
+        <dc:subject>linux</dc:subject>
+        <dc:subject>development</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Michael Kerrisk&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2022-08-31T19:53:30+00:00"/>
