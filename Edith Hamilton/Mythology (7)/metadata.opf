@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea705986-e681-4d84-817b-a7ae67c5e7a6</dc:identifier>
+        <dc:title>Mythology</dc:title>
+        <dc:creator opf:file-as="Hamilton, Edith" opf:role="aut">Edith Hamilton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-26T05:00:00+00:00</dc:date>
+        <dc:publisher>Running Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B071LDBDTM</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Edith Hamilton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-09-02T21:58:09.460364+00:00"/>
+        <meta name="calibre:title_sort" content="Mythology"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

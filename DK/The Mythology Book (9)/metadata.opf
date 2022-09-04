@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">349dfdef-0a7c-4c68-8d40-7a5078abf7b0</dc:identifier>
+        <dc:title>The Mythology Book</dc:title>
+        <dc:creator opf:file-as="DK" opf:role="aut">DK</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;More than 80 classic myths retold and explained, from early creation beliefs to classical hero narratives and the recurring theme of the afterlife. &lt;/b&gt;&lt;/p&gt;&lt;p&gt;The latest title in the bestselling Big Ideas series, &lt;i&gt;The Mythology Book&lt;/i&gt; explores the compelling worlds and characters depicted in myths and legends. Delve into each myth and discover the meanings behind these stories, getting to the heart of their significance to different cultures worldwide. More than just stories, myths are testament to the amazing creativity of humans striving to explain and make sense of the world around them. &lt;/p&gt;&lt;p&gt;Revisit your favourite myths and discover brand new ones- discover Zeus, god of the sky and ruler of the Olympian gods, Loki, the cunning trickster with a knack for causing havoc, Thor with his mighty hammer, and Hades, ruler of the underworld. Beyond the gods and goddesses of Ancient Greek, Roman, and Norse myths this book delves into the stories woven by the Australian...</dc:description>
+        <dc:publisher>Dorling Kindersley Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780241353219</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;DK&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-09-02T22:02:42+00:00"/>
+        <meta name="calibre:title_sort" content="Mythology Book, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
