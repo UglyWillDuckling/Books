@@ -5,12 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a0699f6b-7542-446a-a3b6-39079064da7a</dc:identifier>
         <dc:title>The Linux Programming Interface: A Linux and UNIX System Programming Handbook</dc:title>
         <dc:creator opf:file-as="Kerrisk, Michael" opf:role="aut">Michael Kerrisk</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2011-02-10T23:00:00+00:00</dc:date>
         <dc:publisher>O'Reilly Distribution</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">B004OEJMZM</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Michael Kerrisk&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2022-08-31T19:53:30+00:00"/>
         <meta name="calibre:title_sort" content="Linux Programming Interface: A Linux and UNIX System Programming Handbook, The"/>
         <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;MOBI&quot;, &quot;user_type&quot;: &quot;local&quot;, &quot;user&quot;: &quot;viewer&quot;, &quot;annotation&quot;: {&quot;end_cfi&quot;: &quot;/2/4/22[filepos265032]/18/20/6/12/1:51&quot;, &quot;highlighted_text&quot;: &quot;Berkeley Software Distribution (BSD)&quot;, &quot;notes&quot;: &quot;BSD\n&quot;, &quot;spine_index&quot;: 1, &quot;spine_name&quot;: &quot;index.html&quot;, &quot;start_cfi&quot;: &quot;/2/4/22[filepos265032]/18/20/6/12/1:15&quot;, &quot;style&quot;: {&quot;kind&quot;: &quot;color&quot;, &quot;type&quot;: &quot;builtin&quot;, &quot;which&quot;: &quot;green&quot;}, &quot;timestamp&quot;: &quot;2022-09-01T21:43:59.935Z&quot;, &quot;type&quot;: &quot;highlight&quot;, &quot;uuid&quot;: &quot;QlH5oYrzl3S_agxZvArwFg&quot;}}"/>

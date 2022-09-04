@@ -43,18 +43,18 @@ In his long-awaited return, John Green, the acclaimed, award-winning author of &
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;John Green is the award-winning, #1 bestselling author of &lt;em&gt;Looking for Alaska&lt;/em&gt;, &lt;em&gt;An Abundance of Katherines&lt;/em&gt;, &lt;em&gt;Paper Towns&lt;/em&gt;, &lt;em&gt;Will Grayson, Will Grayson&lt;/em&gt; (with David Levithan), and &lt;em&gt;The Fault in Our Stars&lt;/em&gt;. His many accolades include the Printz Medal, a Printz Honor, and the Edgar Award. John has twice been a finalist for the LA Times Book Prize and was selected by TIME magazine as one of the 100 Most Influential People in the World. With his brother, Hank, John is one half of the Vlogbrothers  and co-created the online educational series CrashCourse. You can join the millions who follow him on Twitter @johngreen and Instagram @johngreenwritesbooks or visit him online at johngreenbooks.com. John lives with his family in Indianapolis, Indiana. &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">440oDwAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">35504431</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9780525555360</dc:identifier>
         <dc:identifier opf:scheme="FF">g/john-green/turtles-all-the-way-down</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">B072SSMC4H</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">440oDwAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B072SSMC4H</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780525555360</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Young Adult</dc:subject>
         <dc:subject>Contemporary</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;John Green&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2022-09-02T22:26:44.962990+00:00"/>
+        <meta name="calibre:timestamp" content="2022-09-02T22:26:44+00:00"/>
         <meta name="calibre:title_sort" content="Turtles All the Way Down"/>
     </metadata>
     <guide>

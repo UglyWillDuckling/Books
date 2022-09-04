@@ -5,12 +5,13 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">61ce18b2-0dd5-492e-b554-0a700793c74f</dc:identifier>
         <dc:title>Calling a Wolf a Wolf</dc:title>
         <dc:creator opf:file-as="Akbar, Kaveh" opf:role="aut">Kaveh Akbar</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-09-24T22:00:00+00:00</dc:date>
         <dc:publisher>Alice James Books</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">B075V95C2H</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Kaveh Akbar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2022-09-01T16:44:36+00:00"/>
         <meta name="calibre:title_sort" content="Calling a Wolf a Wolf"/>
     </metadata>
