@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1adf1a08-f823-4acf-9a7f-a045a6c385db</dc:identifier>
+        <dc:title>A Chronicle of the Last Pagans</dc:title>
+        <dc:creator opf:file-as="Chauvin, Pierre" opf:role="aut">Pierre Chauvin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-11T10:34:46+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Pierre Chauvin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-09-04T20:14:13+00:00"/>
+        <meta name="calibre:title_sort" content="Chronicle of the Last Pagans, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
