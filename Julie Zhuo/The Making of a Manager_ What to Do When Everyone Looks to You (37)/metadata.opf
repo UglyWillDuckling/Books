@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">639be0c3-4237-44d3-a495-ed6ed4c8a33b</dc:identifier>
+        <dc:title>The Making of a Manager: What to Do When Everyone Looks to You</dc:title>
+        <dc:creator opf:file-as="Zhuo, Julie" opf:role="aut">Julie Zhuo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-19T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;Congratulations, you're a manager! After you pop the champagne, accept the shiny new title, and step into this thrilling next chapter of your career, the truth descends like a fog: &lt;i&gt;you don't really know what you're doing&lt;/i&gt;.&lt;/b&gt;&lt;br&gt;That's exactly how Julie Zhuo felt when she became a rookie manager at the age of 25. She stared at a long list of logistics&amp;#8212;from hiring to firing, from meeting to messaging, from planning to pitching&amp;#8212;and faced a thousand questions and uncertainties. How was she supposed to spin teamwork into value? How could she be a good steward of her reports' careers? What was the secret to leading with confidence in new and unexpected situations?&lt;br&gt;Now, having managed dozens of teams spanning tens to hundreds of people, Julie knows the most important lesson of all: great managers are made, not born. If you care enough to be reading this, then you care enough to be a great manager.&lt;br&gt;&lt;i&gt;The Making of a Manager &lt;/i&gt;is a modern field guide packed...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Julie Zhuo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-09-13T21:15:42.657316+00:00"/>
+        <meta name="calibre:title_sort" content="Making of a Manager: What to Do When Everyone Looks to You, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
