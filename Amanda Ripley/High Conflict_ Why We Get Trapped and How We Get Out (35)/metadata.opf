@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9964d18d-3305-488e-b043-712761a260be</dc:identifier>
+        <dc:title>High Conflict: Why We Get Trapped and How We Get Out</dc:title>
+        <dc:creator opf:file-as="Ripley, Amanda" opf:role="aut">Amanda Ripley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-06T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;When we are baffled by the insanity of the "other side"&amp;#8212;in our politics, at work, or at home&amp;#8212;it's because we aren't seeing how the conflict itself has taken over.&lt;/b&gt;&lt;BR&gt;That's what "high conflict" does. It's the invisible hand of our time. And it's different from the useful friction of healthy conflict. That's &lt;i&gt;good &lt;/i&gt;conflict, and it's a necessary force that pushes us to be better people.&lt;BR&gt; &lt;BR&gt;High conflict, by contrast, is what happens when discord distills into a good-versus-evil kind of feud, the kind with an &lt;i&gt;us &lt;/i&gt;and a &lt;i&gt;them&lt;/i&gt;. In this state, the normal rules of engagement no longer apply. The brain behaves differently. We feel increasingly certain of our own superiority and, at the same time, more and more mystified by the other side.&lt;BR&gt; &lt;BR&gt;&lt;i&gt;New York Times &lt;/i&gt;bestselling author and award-winning journalist Amanda Ripley investigates how good people get captured by high conflict&amp;#8212;and how they break free.&lt;BR&gt; &lt;BR&gt;Our journey begins in...</dc:description>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Amanda Ripley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-09-13T21:11:46+00:00"/>
+        <meta name="calibre:title_sort" content="High Conflict: Why We Get Trapped and How We Get Out"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
