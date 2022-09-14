@@ -91,16 +91,24 @@
   },
   "gui_view_history": [
     [
-      35,
-      "High Conflict: Why We Get Trapped and How We Get Out"
+      39,
+      "Al Jazeera in English [Tue, 13 Sep 2022]"
+    ],
+    [
+      30,
+      "Al Jazeera in English [Sun, 04 Sep 2022]"
+    ],
+    [
+      36,
+      "Management 3.0; Leading Agile Developers, Developing Agile Leaders"
     ],
     [
       34,
       "A Chronicle of the Last Pagans"
     ],
     [
-      30,
-      "Al Jazeera in English [Sun, 04 Sep 2022]"
+      35,
+      "High Conflict: Why We Get Trapped and How We Get Out"
     ],
     [
       29,
@@ -141,14 +149,6 @@
     [
       13,
       "Voices of the Winds, Native American Legend"
-    ],
-    [
-      6,
-      "The Hero with a Thousand Faces: Commemorative Edition"
-    ],
-    [
-      4,
-      "The Anthropocene Reviewed: Essays on a Human-Centered Planet"
     ]
   ],
   "field_metadata": {
@@ -676,7 +676,9 @@
     "identifiers"
   ],
   "news_to_be_synced": [
+    39,
     29,
+    38,
     30
   ]
 }
