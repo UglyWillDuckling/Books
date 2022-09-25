@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d33f821f-897a-4cb7-8e96-5fa517007dbd</dc:identifier>
+        <dc:title>Egyptian Mythology: Gods, Pharaohs and Book of the Dead of Egyptian Mythology (Egyptian Mysteries - Tutankhamen - Cleopatra - Ancient Egypt - Pyramids ... - Norse - Egyptian - Mythology Trilogy 3)</dc:title>
+        <dc:creator opf:file-as="Weaver, Stephan" opf:role="aut">Weaver, Stephan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-09T18:30:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B011F0BJ58</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Weaver, Stephan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-09-24T19:52:36+00:00"/>
+        <meta name="calibre:title_sort" content="Egyptian Mythology: Gods, Pharaohs and Book of the Dead of Egyptian Mythology (Egyptian Mysteries - Tutankhamen - Cleopatra - Ancient Egypt - Pyramids ... - Norse - Egyptian - Mythology Trilogy 3)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

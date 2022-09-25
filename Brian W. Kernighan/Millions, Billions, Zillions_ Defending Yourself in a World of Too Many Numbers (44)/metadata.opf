@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b68bbbb-b5c1-4fea-a472-2ac4d5671f54</dc:identifier>
+        <dc:title>Millions, Billions, Zillions: Defending Yourself in a World of Too Many Numbers</dc:title>
+        <dc:creator opf:file-as="Kernighan, Brian W." opf:role="aut">Brian W. Kernighan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-06T18:13:07+00:00</dc:date>
+        <dc:description>An essential guide to recognizing bogus numbers and misleading dataNumbers are often intimidating, confusing, and even deliberately deceptive—especially when they are really big. The media loves to report on millions, billions, and trillions, but frequently makes basic mistakes or presents such numbers in misleading ways. And misunderstanding numbers can have serious consequences, since they can deceive us in many of our most important decisions, including how to vote, what to buy, and whether to make a financial investment. In this short, accessible, enlightening, and entertaining book, leading computer scientist Brian Kernighan teaches anyone—even diehard math-phobes—how to demystify the numbers that assault us every day.With examples drawn from a rich variety of sources, including journalism, advertising, and politics, Kernighan demonstrates how numbers can mislead and misrepresent. In chapters covering big numbers, units, dimensions, and more, he lays bare everything from deceptive graphs to speciously precise numbers. And he shows how anyone—using a few basic ideas and lots of shortcuts—can easily learn to recognize common mistakes, determine whether numbers are credible, and make their own sensible estimates when needed.Giving you the simple tools you need to avoid being fooled by dubious numbers, Millions, Billions, Zillions is an essential survival guide for a world drowning in big—and often bad—data.</dc:description>
+        <dc:publisher>PrincetonUP</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780691182773</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">pViYDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Counting &amp; Numeration</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Media Studies</dc:subject>
+        <dc:subject>Measurement</dc:subject>
+        <dc:subject>History &amp; Philosophy</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brian W. Kernighan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-09-25T17:12:43.556922+00:00"/>
+        <meta name="calibre:title_sort" content="Millions, Billions, Zillions: Defending Yourself in a World of Too Many Numbers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

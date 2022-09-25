@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b57c903-6470-4901-98ed-10cb12db648a</dc:identifier>
+        <dc:title>Encyclopedia of an Ordinary Life</dc:title>
+        <dc:creator opf:file-as="Rosenthal, Amy Krouse" opf:role="aut">Amy Krouse Rosenthal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-09-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;How do you conjure a life? Give the truest account of what you saw, felt, learned, loved, strived for?  &lt;br&gt;&lt;br&gt;For Amy Krouse Rosenthal, the surprising answer came in the form of an encyclopedia. In Encyclopedia of an Ordinary Life  she has ingeniously adapted this centuries-old format for conveying knowledge into a poignant, wise, often funny, fully realized memoir. Using mostly short entries organized from A to Z, many of which are cross-referenced, Rosenthal captures in wonderful and episodic detail the moments, observations, and emotions that comprise a contemporary life. Start anywhere--preferably at the beginning--and see how one young woman's alphabetized existence can open up and define the world in new and unexpected ways.&lt;br&gt;&lt;br&gt;An ordinary life, perhaps, but an extraordinary book.&lt;br&gt;&lt;br&gt;&lt;i&gt;From the Hardcover edition.&lt;/i&gt;</dc:description>
+        <dc:publisher>Crown/Archetype</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-307-42065-7</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Amy Krouse Rosenthal&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-09-25T17:06:20+00:00"/>
+        <meta name="calibre:title_sort" content="Encyclopedia of an Ordinary Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
