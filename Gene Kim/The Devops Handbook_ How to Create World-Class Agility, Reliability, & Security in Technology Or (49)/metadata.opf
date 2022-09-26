@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5b6d30a-1735-4fd2-8aa0-2e841873e502</dc:identifier>
+        <dc:title>The Devops Handbook: How to Create World-Class Agility, Reliability, &amp; Security in Technology Organizations</dc:title>
+        <dc:creator opf:file-as="Kim, Gene &amp; Debois, Patrick &amp; Humble, Jez &amp; Willis, John &amp; Forsgren, Nicole" opf:role="aut">Gene Kim</dc:creator>
+        <dc:creator opf:file-as="Kim, Gene &amp; Debois, Patrick &amp; Humble, Jez &amp; Willis, John &amp; Forsgren, Nicole" opf:role="aut">Patrick Debois</dc:creator>
+        <dc:creator opf:file-as="Kim, Gene &amp; Debois, Patrick &amp; Humble, Jez &amp; Willis, John &amp; Forsgren, Nicole" opf:role="aut">Jez Humble</dc:creator>
+        <dc:creator opf:file-as="Kim, Gene &amp; Debois, Patrick &amp; Humble, Jez &amp; Willis, John &amp; Forsgren, Nicole" opf:role="aut">John Willis</dc:creator>
+        <dc:creator opf:file-as="Kim, Gene &amp; Debois, Patrick &amp; Humble, Jez &amp; Willis, John &amp; Forsgren, Nicole" opf:role="aut">Nicole Forsgren</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This award-winning and bestselling business handbook for digital transformation is now fully updated and expanded with the latest research and new case studies!&lt;/p&gt;
+&lt;p&gt;“[The DevOps Handbook] remains a must-read for any organization seeking to scale up its IT capability and expand DevOps practices across multiple departments or lines of business.” ―Mike Perrow, TechBeacon&lt;/p&gt;
+&lt;p&gt;For years, The DevOps Handbook has been the definitive guide for taking the successes laid out in the bestselling The Phoenix Project and applying them in any organization. Now, with this fully updated and expanded edition, it's time to take DevOps out of the IT department and apply it across the full business.&lt;/p&gt;
+&lt;p&gt;Technology is now at the core of every company, no matter the business model or product. The theories and practices laid out in The DevOps Handbook are tools to be used by anyone from across the organization to create joy and succeed in the marketplace. &lt;/p&gt;
+&lt;p&gt;The second edition features 15 new case studies, including stories from Adidas, American Airlines, Fannie Mae, Target, and the US Air Force. In addition, renowned researcher and coauthor of Accelerate, Dr. Nicole Forsgren, provides her insights through new and updated material and research. With over 100 pages of new content throughout the book, this expanded edition is a must read for anyone who works with technology.&lt;/p&gt;
+&lt;p&gt;“[The DevOps Handbook is] a practical roadmap to improving IT in any organization. It's also the most valuable book on software development I've read in the past 10 years.” ―Adam Hawkins, software developer and host of the podcast SmallBatches&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>IT Revolution Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781950508402</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1950508404</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">emAxzgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Skills</dc:subject>
+        <dc:subject>Industries</dc:subject>
+        <dc:subject>Computers &amp; Information Technology</dc:subject>
+        <dc:subject>Information Management</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Information Technology</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Project Management</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gene Kim&quot;: &quot;&quot;, &quot;Patrick Debois&quot;: &quot;&quot;, &quot;Jez Humble&quot;: &quot;&quot;, &quot;John Willis&quot;: &quot;&quot;, &quot;Nicole Forsgren&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-09-26T20:19:49.966230+00:00"/>
+        <meta name="calibre:title_sort" content="Devops Handbook: How to Create World-Class Agility, Reliability, &amp; Security in Technology Organizations, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
