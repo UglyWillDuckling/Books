@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d585382-1017-451a-a8ce-070490d8b0b0</dc:identifier>
+        <dc:title>Thinking, Fast and Slow</dc:title>
+        <dc:creator opf:file-as="Kahneman, Daniel" opf:role="aut">Daniel Kahneman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-24T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Major New York Times bestsellerWinner of the National Academy of Sciences Best Book Award in 2012Selected by the New York Times Book Review as one of the ten best books of 2011A Globe and Mail Best Books of the Year 2011 TitleOne of The Economist's 2011 Books of the Year One of The Wall Street Journal's Best Nonfiction Books of the Year 20112013 Presidential Medal of Freedom RecipientKahneman's work with Amos Tversky is the subject of Michael Lewis's The Undoing Project: A Friendship That Changed Our MindsIn his mega bestseller, Thinking, Fast and Slow, Daniel Kahneman, the renowned psychologist and winner of the Nobel Prize in Economics, takes us on a groundbreaking tour of the mind and explains the two systems that drive the way we think. System 1 is fast, intuitive, and emotional; System 2 is slower, more deliberative, and more logical. The impact of overconfidence on corporate strategies, the difficulties of predicting what will make us happy in the future, the profound effect of cognitive biases on everything from playing the stock market to planning our next vacation—each of these can be understood only by knowing how the two systems shape our judgments and decisions. &lt;/p&gt;
+&lt;p&gt;Engaging the reader in a lively conversation about how we think, Kahneman reveals where we can and cannot trust our intuitions and how we can tap into the benefits of slow thinking. He offers practical and enlightening insights into how choices are made in both our business and our personal lives—and how we can use different techniques to guard against the mental glitches that often get us into trouble. Winner of the National Academy of Sciences Best Book Award and the Los Angeles Times Book Prize and selected by The New York Times Book Review as one of the ten best books of 2011, Thinking, Fast and Slow is destined to be a classic.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Farrar, Straus and Giroux</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780374533557</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0374533555</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ZuKTvERuPG8C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Cognitive Psychology &amp; Cognition</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Decision-Making &amp; Problem Solving</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Kahneman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-09-26T20:58:43.899271+00:00"/>
+        <meta name="calibre:title_sort" content="Thinking, Fast and Slow"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;local&quot;, &quot;user&quot;: &quot;viewer&quot;, &quot;annotation&quot;: {&quot;end_cfi&quot;: &quot;/2/4/2[filepos7684]/50/1:869&quot;, &quot;highlighted_text&quot;: &quot;disiac effect of power and the temptations of life away from home. I eventually realized that the transgressions of politicians are much more likely&quot;, &quot;spine_index&quot;: 4, &quot;spine_name&quot;: &quot;Thinking_Fast_and_Slow_split_003.html&quot;, &quot;start_cfi&quot;: &quot;/2/4/2[filepos7684]/50/1:721&quot;, &quot;style&quot;: {&quot;kind&quot;: &quot;color&quot;, &quot;type&quot;: &quot;builtin&quot;, &quot;which&quot;: &quot;green&quot;}, &quot;timestamp&quot;: &quot;2022-09-26T21:02:35.946Z&quot;, &quot;toc_family_titles&quot;: [&quot;Introduction&quot;], &quot;type&quot;: &quot;highlight&quot;, &quot;uuid&quot;: &quot;6CUXRBUZgolzciDmpSC3Lg&quot;}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
