@@ -91,12 +91,16 @@
   },
   "gui_view_history": [
     [
-      48,
-      "[No data]"
+      50,
+      "Thinking, Fast and Slow"
     ],
     [
       44,
       "Millions, Billions, Zillions: Defending Yourself in a World of Too Many Numbers"
+    ],
+    [
+      48,
+      "[No data]"
     ],
     [
       42,
@@ -145,10 +149,6 @@
     [
       8,
       "Mythology New Edition"
-    ],
-    [
-      3,
-      "The Linux Programming Interface: A Linux and UNIX System Programming Handbook"
     ]
   ],
   "field_metadata": {
