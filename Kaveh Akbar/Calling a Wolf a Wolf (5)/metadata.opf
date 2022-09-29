@@ -5,11 +5,22 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">61ce18b2-0dd5-492e-b554-0a700793c74f</dc:identifier>
         <dc:title>Calling a Wolf a Wolf</dc:title>
         <dc:creator opf:file-as="Akbar, Kaveh" opf:role="aut">Kaveh Akbar</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2017-09-24T22:00:00+00:00</dc:date>
-        <dc:publisher>Alice James Books</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-11T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;2017 Foreword INDIES Book of the Year Awards Gold Winner 2018 Levis Reading Prize Winner 2017 Julie Suk Award Winner A 2017 Nautilus Silver Award Winner 2017 Florida Book Award Gold Winner A 2018 First Horizon Award Winner Winner of the 2018 Eric Hoffer Small Press Award Shortlisted for the Eric Hoffer Award Grand Prize A 2018 Montaigne Medal Finalist A 2017 NPR Best Book of the Year A 2017 Library Journal Best Book of the Year A 2017 Entropy Magazine Best Book of the Year A 2017 The Coil Best Book of the Year A 2017 Sundress Publications Best Book of the Year A 2017 Indianapolis Monthly Best Book of the Year A 2017 Largehearted Boy Best Book of the Year A 2017 Volume 1 Brooklyn Best Book of the Year A 2017 Interview Best Book of the Year This award-winning debut boldly confronts addiction and courses the strenuous path of recovery, beginning in the wilds of the mind. Poems confront craving, control, the constant battle of alcoholism and sobriety, and the questioning of the self and its instincts within the context of this never-ending fight. From "Stop Me If You've Heard This One Before": Sometimes you just have to leave whatever's real to you, you have to clomp through fields and kick the caps off all the toadstools. Sometimes you have to march all the way to Galilee or the literal foot of God himself before you realize you've already passed the place where you were supposed to die. I can no longer remember the being afraid, only that it came to an end.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Books</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">B075V95C2H</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780141987972</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1938584678</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">GmhIswEACAAJ</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>Poetry</dc:subject>
+        <dc:subject>Subjects &amp; Themes</dc:subject>
+        <dc:subject>Inspirational &amp; Religious</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Middle Eastern</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Kaveh Akbar&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2022-09-01T16:44:36+00:00"/>

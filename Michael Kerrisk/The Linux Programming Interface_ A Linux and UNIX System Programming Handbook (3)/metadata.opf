@@ -5,11 +5,24 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a0699f6b-7542-446a-a3b6-39079064da7a</dc:identifier>
         <dc:title>The Linux Programming Interface: A Linux and UNIX System Programming Handbook</dc:title>
         <dc:creator opf:file-as="Kerrisk, Michael" opf:role="aut">Michael Kerrisk</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2011-02-10T23:00:00+00:00</dc:date>
-        <dc:publisher>O'Reilly Distribution</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Linux Programming Interface (TLPI) is the definitive guide to the Linux and UNIX programming interface—the interface employed by nearly every application that runs on a Linux or UNIX system. &lt;/p&gt;
+&lt;p&gt;In this authoritative work, Linux programming expert Michael Kerrisk provides detailed descriptions of the system calls and library functions that you need in order to master the craft of system programming, and accompanies his explanations with clear, complete example programs. &lt;/p&gt;
+&lt;p&gt;You'll find descriptions of over 500 system calls and library functions, and more than 200 example programs, 88 tables, and 115 diagrams. You'll learn how to:&lt;br&gt;–Read and write files efficiently&lt;br&gt;–Use signals, clocks, and timers&lt;br&gt;–Create processes and execute programs&lt;br&gt;–Write secure programs&lt;br&gt;–Write multithreaded programs using POSIX threads&lt;br&gt;–Build and use shared libraries&lt;br&gt;–Perform interprocess communication using pipes, message queues, shared memory, and semaphores&lt;br&gt;–Write network applications with the sockets API &lt;/p&gt;
+&lt;p&gt;While The Linux Programming Interface covers a wealth of Linux-specific features, including epoll, inotify, and the /proc file system, its emphasis on UNIX standards (POSIX.1-2001/SUSv3 and POSIX.1-2008/SUSv4) makes it equally valuable to programmers working on other UNIX platforms. &lt;/p&gt;
+&lt;p&gt;The Linux Programming Interface is the most comprehensive single-volume work on the Linux and UNIX programming interface, and a book that's destined to become a new classic.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">B004OEJMZM</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781593272203</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1593272200</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">2SAQAQAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <dc:subject>Operating Systems</dc:subject>
         <dc:subject>unix</dc:subject>
         <dc:subject>linux</dc:subject>
         <dc:subject>development</dc:subject>
@@ -19,7 +32,7 @@
         <meta name="calibre:title_sort" content="Linux Programming Interface: A Linux and UNIX System Programming Handbook, The"/>
         <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;MOBI&quot;, &quot;user_type&quot;: &quot;local&quot;, &quot;user&quot;: &quot;viewer&quot;, &quot;annotation&quot;: {&quot;end_cfi&quot;: &quot;/2/4/22[filepos265032]/18/20/6/12/1:51&quot;, &quot;highlighted_text&quot;: &quot;Berkeley Software Distribution (BSD)&quot;, &quot;notes&quot;: &quot;BSD\n&quot;, &quot;spine_index&quot;: 1, &quot;spine_name&quot;: &quot;index.html&quot;, &quot;start_cfi&quot;: &quot;/2/4/22[filepos265032]/18/20/6/12/1:15&quot;, &quot;style&quot;: {&quot;kind&quot;: &quot;color&quot;, &quot;type&quot;: &quot;builtin&quot;, &quot;which&quot;: &quot;green&quot;}, &quot;timestamp&quot;: &quot;2022-09-01T21:43:59.935Z&quot;, &quot;type&quot;: &quot;highlight&quot;, &quot;uuid&quot;: &quot;QlH5oYrzl3S_agxZvArwFg&quot;}}"/>
         <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;MOBI&quot;, &quot;user_type&quot;: &quot;local&quot;, &quot;user&quot;: &quot;viewer&quot;, &quot;annotation&quot;: {&quot;end_cfi&quot;: &quot;/2/4/22[filepos265032]/18/20/6/2/2/2/2/2/2:29&quot;, &quot;highlighted_text&quot;: &quot;The birth of BSD and System V&quot;, &quot;notes&quot;: &quot;The split\n&quot;, &quot;spine_index&quot;: 1, &quot;spine_name&quot;: &quot;index.html&quot;, &quot;start_cfi&quot;: &quot;/2/4/22[filepos265032]/18/20/6/2/2/2/2/2/2:0&quot;, &quot;style&quot;: {&quot;kind&quot;: &quot;color&quot;, &quot;type&quot;: &quot;builtin&quot;, &quot;which&quot;: &quot;red&quot;}, &quot;timestamp&quot;: &quot;2022-09-01T21:41:19.382Z&quot;, &quot;type&quot;: &quot;highlight&quot;, &quot;uuid&quot;: &quot;XXScUWFppo2yaewkbwT5xA&quot;}}"/>
-        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;MOBI&quot;, &quot;user_type&quot;: &quot;local&quot;, &quot;user&quot;: &quot;viewer&quot;, &quot;annotation&quot;: {&quot;removed&quot;: true, &quot;timestamp&quot;: &quot;2022-09-14T14:17:35.937Z&quot;, &quot;type&quot;: &quot;highlight&quot;, &quot;uuid&quot;: &quot;kV_3XUm7VXgnBVRq-CbJOQ&quot;}}"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;MOBI&quot;, &quot;user_type&quot;: &quot;local&quot;, &quot;user&quot;: &quot;viewer&quot;, &quot;annotation&quot;: {&quot;end_cfi&quot;: &quot;/2/4/22[filepos265032]/18/16/1:848&quot;, &quot;highlighted_text&quot;: &quot; \nThe genesis of C explains why it, and its descendant C++, have come to be used so widely as system programming languages today. Previous widely used languages were designed with other purposes in mind: FORTRAN for mathematical tasks performed by engineers and scientists; COBOL for commercial systems processing streams of record-oriented data. C filled a hitherto empty niche, and unlike FORTRAN and COBOL (which were designed by large committees), the design of C arose from the ideas and needs of a few individuals working toward a single goal: developing a high-level language for implementing the UNIX kernel and associated software. Like the UNIX operating system itself, C was designed by professional programmers for their own use. The resulting language was small, efficient, powerful, terse, modular, pragmatic, and coherent in its design&quot;, &quot;notes&quot;: &quot;agile, even in those days.\n&quot;, &quot;spine_index&quot;: 1, &quot;spine_name&quot;: &quot;index.html&quot;, &quot;start_cfi&quot;: &quot;/2/4/22[filepos265032]/18/14/1:0&quot;, &quot;style&quot;: {&quot;kind&quot;: &quot;color&quot;, &quot;type&quot;: &quot;builtin&quot;, &quot;which&quot;: &quot;yellow&quot;}, &quot;timestamp&quot;: &quot;2022-09-01T21:37:34.611Z&quot;, &quot;toc_family_titles&quot;: [&quot;1. History and Standards&quot;, &quot;A Brief History of UNIX and C&quot;], &quot;type&quot;: &quot;highlight&quot;, &quot;uuid&quot;: &quot;kV_3XUm7VXgnBVRq-CbJOQ&quot;}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>
