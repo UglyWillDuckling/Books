@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f7bab5e-adc3-4023-8cfb-02c3d26fc000</dc:identifier>
+        <dc:title>The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</dc:title>
+        <dc:creator opf:file-as="Kim, Gene &amp; Behr, Kevin &amp; Spafford, George" opf:role="aut">Gene Kim</dc:creator>
+        <dc:creator opf:file-as="Kim, Gene &amp; Behr, Kevin &amp; Spafford, George" opf:role="aut">Kevin Behr</dc:creator>
+        <dc:creator opf:file-as="Kim, Gene &amp; Behr, Kevin &amp; Spafford, George" opf:role="aut">George Spafford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-09T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Bill is an IT manager at Parts Unlimited. It's Tuesday morning and on his drive into the office, Bill gets a call from the CEO. &lt;/p&gt;
+&lt;p&gt;The company's new IT initiative, code named Phoenix Project, is critical to the future of Parts Unlimited, but the project is massively over budget and very late. The CEO wants Bill to report directly to him and fix the mess in ninety days or else Bill's entire department will be outsourced. &lt;/p&gt;
+&lt;p&gt;With the help of a prospective board member and his mysterious philosophy of The Three Ways, Bill starts to see that IT work has more in common with manufacturing plant work than he ever imagined. With the clock ticking, Bill must organize work flow streamline interdepartmental communications, and effectively serve the other business functions at Parts Unlimited. &lt;/p&gt;
+&lt;p&gt;In a fast-paced and entertaining style, three luminaries of the DevOps movement deliver a story that anyone who works in IT will recognize. Readers will not only learn how to improve their own IT organizations, they'll never view IT the same way again.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>IT Revolution Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00AZRBLHO</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780988262591</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0988262592</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Gene Kim&quot;: &quot;&quot;, &quot;Kevin Behr&quot;: &quot;&quot;, &quot;George Spafford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-09-26T20:25:40.627456+00:00"/>
+        <meta name="calibre:title_sort" content="Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
