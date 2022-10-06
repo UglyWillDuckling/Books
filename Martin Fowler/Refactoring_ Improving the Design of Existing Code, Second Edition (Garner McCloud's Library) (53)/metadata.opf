@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91563579-2651-40ef-b8ac-4564175fc607</dc:identifier>
+        <dc:title>Refactoring: Improving the Design of Existing Code, Second Edition (Garner McCloud's Library)</dc:title>
+        <dc:creator opf:file-as="Fowler, Martin" opf:role="aut">Martin Fowler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.6.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-15T00:00:00+00:00</dc:date>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Martin Fowler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-10-06T14:26:18+00:00"/>
+        <meta name="calibre:title_sort" content="Refactoring: Improving the Design of Existing Code, Second Edition (Garner McCloud's Library)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
