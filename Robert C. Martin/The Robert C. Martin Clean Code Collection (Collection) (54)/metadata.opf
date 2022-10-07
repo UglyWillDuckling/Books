@@ -10,8 +10,9 @@
         <dc:publisher>Pearson Education Limited (US titles)</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9780132911221</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>development</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Robert C. Martin&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-10-06T14:26:55.098973+00:00"/>
+        <meta name="calibre:timestamp" content="2022-10-06T14:26:55+00:00"/>
         <meta name="calibre:title_sort" content="Robert C. Martin Clean Code Collection (Collection), The"/>
     </metadata>
     <guide>

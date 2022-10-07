@@ -12,6 +12,7 @@
         <dc:publisher>Addison-Wesley Professional</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9780135956977</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>development</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Andrew Hunt&quot;: &quot;&quot;, &quot;David Thomas&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-10-06T14:29:12+00:00"/>
         <meta name="calibre:title_sort" content="Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition, The"/>
