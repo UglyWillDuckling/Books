@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">60</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77bcb388-6fb4-4c42-bd22-3f4fe49e74ab</dc:identifier>
+        <dc:title>Chaos</dc:title>
+        <dc:creator opf:file-as="Gleick, James" opf:role="aut">James Gleick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.7.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;The blockbuster modern science classic that introduced the butterfly effect to the world&amp;#8212;even more relevant two decades after it became an international sensation&lt;p&gt;For centuries, scientific thought was focused on bringing order to the natural world. But even as relativity and quantum mechanics undermined that rigid certainty in the first half of the twentieth century, the scientific community clung to the idea that any system, no matter how complex, could be reduced to a simple pattern. In the 1960s, a small group of radical thinkers began to take that notion apart, placing new importance on the tiny experimental irregularities that scientists had long learned to ignore. Miniscule differences in data, they said, would eventually produce massive ones&amp;#8212;and complex systems like the weather, economics, and human behavior suddenly became clearer and more beautiful than they had ever been before...</dc:description>
+        <dc:publisher>Open Road Integrated Media LLC</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-1-4532-1047-5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;James Gleick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-11-01T22:54:26.123685+00:00"/>
+        <meta name="calibre:title_sort" content="Chaos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
