@@ -91,6 +91,10 @@
   },
   "gui_view_history": [
     [
+      61,
+      "Practical Vim, Second Edition (for Stefano Alcazi)"
+    ],
+    [
       59,
       "Go in Action"
     ],
@@ -145,10 +149,6 @@
     [
       46,
       "Drive: The Surprising Truth About What Motivates Us"
-    ],
-    [
-      27,
-      "Voices of the Winds, Native American Legends"
     ]
   ],
   "field_metadata": {

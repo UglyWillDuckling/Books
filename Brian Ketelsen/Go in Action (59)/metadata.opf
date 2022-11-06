@@ -7,8 +7,8 @@
         <dc:creator opf:file-as="Ketelsen, Brian &amp; Martin, Erik St. &amp; Kennedy, William" opf:role="aut">Brian Ketelsen</dc:creator>
         <dc:creator opf:file-as="Ketelsen, Brian &amp; Martin, Erik St. &amp; Kennedy, William" opf:role="aut">Erik St. Martin</dc:creator>
         <dc:creator opf:file-as="Ketelsen, Brian &amp; Martin, Erik St. &amp; Kennedy, William" opf:role="aut">William Kennedy</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.6.1) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2015-11-26T12:29:43.457395+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.7.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-26T12:29:43+00:00</dc:date>
         <dc:description>&lt;p&gt;SummaryGo in Action introduces the Go language, guiding you from inquisitive developer to Go guru. The book begins by introducing the unique features and concepts of Go. Then, you'll get hands-on experience writing real-world applications including websites and network servers, as well as techniques to manipulate and convert data at speeds that will make your friends jealous.&lt;/p&gt;
 
 &lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.&lt;/p&gt;
@@ -46,7 +46,7 @@
         <dc:subject>Design</dc:subject>
         <dc:subject>Web Services &amp; APIs</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Brian Ketelsen&quot;: &quot;&quot;, &quot;Erik St. Martin&quot;: &quot;&quot;, &quot;William Kennedy&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-10-09T12:29:29.258428+00:00"/>
+        <meta name="calibre:timestamp" content="2022-10-09T12:29:29+00:00"/>
         <meta name="calibre:title_sort" content="Go in Action"/>
     </metadata>
     <guide>
