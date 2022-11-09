@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7385225-d4a0-4053-bda1-4b716a2f8de6</dc:identifier>
+        <dc:title>Practical Vim, Second Edition (for Stefano Alcazi)</dc:title>
+        <dc:creator opf:file-as="Neil, Drew" opf:role="aut">Drew Neil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.7.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>The Pragmatic Bookshelf, LLC (572215)</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pragmatic Bookshelf</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Drew Neil&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-11-09T13:30:19.276434+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Vim, Second Edition (for Stefano Alcazi)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
