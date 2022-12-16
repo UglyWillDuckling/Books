@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">63</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f884bc12-2493-4224-8a1c-e0650e144a9d</dc:identifier>
+        <dc:title>At Home in the Universe: The Search for the Laws of Self-Organization and Complexity</dc:title>
+        <dc:creator opf:file-as="Kauffman, Stuart" opf:role="aut">Stuart Kauffman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-06T07:30:00+00:00</dc:date>
+        <dc:identifier opf:scheme="ASIN">B001KVZPMQ</dc:identifier>
+        <dc:identifier opf:scheme="GUID">2b08335940ee7f87f277a54df4ece8ae</dc:identifier>
+        <dc:identifier opf:scheme="OASIN">0195095995</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Stuart Kauffman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-12-06T14:15:05.976228+00:00"/>
+        <meta name="calibre:title_sort" content="At Home in the Universe: The Search for the Laws of Self-Organization and Complexity"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
