@@ -14,12 +14,12 @@
 &lt;p&gt;Sir David John Spiegelhalter is a British statistician and Winton Professor of the Public Understanding of Risk in the Statistical Laboratory at the University of Cambridge. Spiegelhalter is one of the most cited and influential researchers in his field, and was elected as President of the Royal Statistical Society for 2017-18.  &lt;/p&gt;
 &lt;p&gt;Sir David John Spiegelhalter is a British statistician and Winton Professor of the Public Understanding of Risk in the Statistical Laboratory at the University of Cambridge. Spiegelhalter is one of the most cited and influential researchers in his field, and was elected as President of the Royal Statistical Society for 2017-18. &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Pelican</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">0241398630</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">B07HQDJD99</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B07HQDJD99</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">0241398630</dc:identifier>
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;David Spiegelhalter&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-12-06T12:21:55.293428+00:00"/>
+        <meta name="calibre:timestamp" content="2022-12-06T12:21:55+00:00"/>
         <meta name="calibre:title_sort" content="Art of Statistics: Learning From Data (Pelican Books), The"/>
     </metadata>
     <guide>
