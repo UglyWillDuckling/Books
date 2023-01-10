@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03a1ed5a-af17-4ae5-a3e6-f489329ff09b</dc:identifier>
+        <dc:title>Hands-on Rust</dc:title>
+        <dc:creator opf:file-as="Wolverson, Herbert" opf:role="aut">Herbert Wolverson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.10.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Rust is an exciting new programming language combining the power of C with memory safety, fearless concurrency, and productivity boosters - and what better way to learn than by making games. Each chapter in this book presents hands-on, practical projects ranging from "Hello, World" to building a full dungeon crawler game. With this book, you'll learn game development skills applicable to other engines, including Unity and Unreal.&lt;/p&gt;&lt;p&gt;Rust is an exciting programming language combining the power of C with memory safety, fearless concurrency, and productivity boosters. With Rust, you have a shiny new playground where your game ideas can flourish.&lt;/p&gt;&lt;p&gt;Each chapter in this book presents hands-on, practical projects that take you on a journey from "Hello, World" to building a full dungeon crawler game. Start by setting up Rust and getting comfortable with your development environment. Learn the language basics with practical examples as you make your own version of Flappy Bird....</dc:description>
+        <dc:publisher>Pragmatic Bookshelf</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pragmatic Bookshelf</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert Wolverson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-08T14:42:15.449319+00:00"/>
+        <meta name="calibre:title_sort" content="Hands-on Rust"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
