@@ -95,12 +95,20 @@
       "Practical Vim, Second Edition (for Stefano Alcazi)"
     ],
     [
-      64,
-      "Gnuplot in Action: Understanding data with graphs, Second Edition MEAP V06"
+      66,
+      "Hands-on Rust"
     ],
     [
       63,
       "At Home in the Universe: The Search for the Laws of Self-Organization and Complexity"
+    ],
+    [
+      65,
+      "Modern Vim"
+    ],
+    [
+      64,
+      "Gnuplot in Action: Understanding data with graphs, Second Edition MEAP V06"
     ],
     [
       62,
@@ -141,14 +149,6 @@
     [
       44,
       "Millions, Billions, Zillions: Defending Yourself in a World of Too Many Numbers"
-    ],
-    [
-      48,
-      "[No data]"
-    ],
-    [
-      42,
-      "The Smartest Kids in the World"
     ]
   ],
   "field_metadata": {
