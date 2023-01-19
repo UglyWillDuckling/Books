@@ -91,8 +91,8 @@
   },
   "gui_view_history": [
     [
-      61,
-      "Practical Vim, Second Edition (for Stefano Alcazi)"
+      67,
+      "The Electric State"
     ],
     [
       66,
@@ -105,6 +105,10 @@
     [
       65,
       "Modern Vim"
+    ],
+    [
+      61,
+      "Practical Vim, Second Edition (for Stefano Alcazi)"
     ],
     [
       64,
@@ -145,10 +149,6 @@
     [
       49,
       "The Devops Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations"
-    ],
-    [
-      44,
-      "Millions, Billions, Zillions: Defending Yourself in a World of Too Many Numbers"
     ]
   ],
   "field_metadata": {
