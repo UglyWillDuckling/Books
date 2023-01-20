@@ -91,6 +91,10 @@
   },
   "gui_view_history": [
     [
+      1,
+      "Quick Start Guide"
+    ],
+    [
       61,
       "Practical Vim, Second Edition (for Stefano Alcazi)"
     ],
@@ -145,10 +149,6 @@
     [
       51,
       "The Smartest Kids in the World: And How They Got That Way"
-    ],
-    [
-      49,
-      "The Devops Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations"
     ]
   ],
   "field_metadata": {
