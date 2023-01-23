@@ -5,13 +5,45 @@
   "grouped_search_terms": {},
   "tag_browser_hidden_categories": [],
   "library_view books view state": {
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "languages": 11,
+      "last_modified": 10,
+      "ondevice": 0,
+      "pubdate": 5,
+      "publisher": 8,
+      "rating": 4,
+      "series": 9,
+      "size": 7,
+      "tags": 6,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 329,
+      "languages": 0,
+      "last_modified": 0,
+      "pubdate": 99,
+      "publisher": 194,
+      "rating": 106,
+      "series": 96,
+      "size": 0,
+      "tags": 157,
+      "timestamp": 98,
+      "title": 625
+    },
     "hidden_columns": [
       "size",
       "last_modified",
       "languages"
     ],
-    "last_modified_injected": true,
     "languages_injected": true,
+    "last_modified_injected": true,
     "sort_history": [
       [
         "title",
@@ -25,39 +57,7 @@
         "timestamp",
         true
       ]
-    ],
-    "column_positions": {
-      "ondevice": 0,
-      "title": 1,
-      "authors": 2,
-      "timestamp": 3,
-      "size": 7,
-      "rating": 4,
-      "tags": 6,
-      "series": 9,
-      "publisher": 8,
-      "pubdate": 5,
-      "last_modified": 10,
-      "languages": 11
-    },
-    "column_sizes": {
-      "title": 625,
-      "authors": 329,
-      "timestamp": 98,
-      "size": 0,
-      "rating": 106,
-      "tags": 157,
-      "series": 96,
-      "publisher": 98,
-      "pubdate": 99,
-      "last_modified": 0,
-      "languages": 0
-    },
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    }
+    ]
   },
   "books view split pane state": {
     "column_positions": {
