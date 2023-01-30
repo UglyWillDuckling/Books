@@ -91,16 +91,16 @@
   },
   "gui_view_history": [
     [
-      61,
-      "Practical Vim, Second Edition (for Stefano Alcazi)"
-    ],
-    [
       70,
       "The Rust Programming Language"
     ],
     [
-      71,
+      69,
       "The Rust Programming Language - The Rust Programming Language"
+    ],
+    [
+      61,
+      "Practical Vim, Second Edition (for Stefano Alcazi)"
     ],
     [
       4,
