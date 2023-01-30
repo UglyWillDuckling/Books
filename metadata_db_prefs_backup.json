@@ -91,6 +91,14 @@
   },
   "gui_view_history": [
     [
+      70,
+      "The Rust Programming Language"
+    ],
+    [
+      71,
+      "The Rust Programming Language - The Rust Programming Language"
+    ],
+    [
       4,
       "The Anthropocene Reviewed: Essays on a Human-Centered Planet"
     ],
@@ -141,14 +149,6 @@
     [
       53,
       "Refactoring: Improving the Design of Existing Code, Second Edition (Garner McCloud's Library)"
-    ],
-    [
-      56,
-      "The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition"
-    ],
-    [
-      54,
-      "The Robert C. Martin Clean Code Collection (Collection)"
     ]
   ],
   "field_metadata": {
