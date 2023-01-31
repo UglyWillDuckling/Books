@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">68</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27375c4d-0108-4645-94ed-c010712a03b1</dc:identifier>
+        <dc:title>Code: The Hidden Language of Computer Hardware and Software</dc:title>
+        <dc:creator opf:file-as="Petzold, Charles" opf:role="aut">Charles Petzold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-06T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p style="font-weight: bold"&gt;The classic guide to how computers work, updated with new chapters and interactive graphics&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;"For me, Code was a revelation. It was the first book about programming that spoke to me. It started with a story, and it built up, layer by layer, analogy by analogy, until I understood not just the Code, but the System. Code is a book that is as much about Systems Thinking and abstractions as it is about code and programming. Code teaches us how many unseen layers there are between the computer systems that we as users look at every day and the magical silicon rocks that we infused with lightning and taught to think."&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;- Scott Hanselman, Partner Program Director, Microsoft, and host of Hanselminutes&lt;/p&gt;
+&lt;p&gt;Computers are everywhere, most obviously in our laptops and smartphones, but also our cars, televisions, microwave ovens, alarm clocks, robot vacuum cleaners, and other smart appliances. Have you ever wondered what goes on inside these devices to make our lives easier but occasionally more infuriating?&lt;/p&gt;
+&lt;p&gt;For more than 20 years, readers have delighted in Charles Petzold's illuminating story of the secret inner life of computers, and now he has revised it for this new age of computing. Cleverly illustrated and easy to understand, this is the book that cracks the mystery. You'll discover what flashlights, black cats, seesaws, and the ride of Paul Revere can teach you about computing, and how human ingenuity and our compulsion to communicate have shaped every electronic device we use.&lt;/p&gt;
+&lt;p&gt;This new expanded edition explores more deeply the bit-by-bit and gate-by-gate construction of the heart of every smart device, the central processing unit that combines the simplest of basic operations to perform the most complex of feats. Petzold’s companion website, CodeHiddenLanguage.com, uses animated graphics of key circuits in the book to make computers even easier to comprehend.&lt;/p&gt;
+&lt;p&gt;In addition to substantially revised and updated content, new chapters include:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Chapter 18: Let’s Build a Clock!&lt;/li&gt;
+&lt;li&gt;Chapter 21: The Arithmetic Logic Unit&lt;/li&gt;
+&lt;li&gt;Chapter 22: Registers and Busses&lt;/li&gt;
+&lt;li&gt;Chapter 23: CPU Control Signals&lt;/li&gt;
+&lt;li&gt;Chapter 24: Jumps, Loops, and Calls&lt;/li&gt;
+&lt;li&gt;Chapter 28: The World Brain&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;From the simple ticking of clocks to the worldwide hum of the internet, Code reveals the essence of the digital revolution.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Charles Petzold&lt;/strong&gt; is also the author of &lt;em&gt;The Annotated Turing: A Guided Tour through Alan Turing’s Historic Paper on Computability&lt;/em&gt; and the &lt;em&gt;Turing Machine&lt;/em&gt; (Wiley, 2008). He wrote a bunch of other books too, but they’re mostly about programming applications for Microsoft Windows, and they’re all obsolete now. He lives in New York City with his wife, historian and novelist Deirdre Sinnott, and two cats named Honey and Heidi. His website is www.charlespetzold.com.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Microsoft Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780137909100</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0137909101</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Petzold&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-01-24T11:47:30+00:00"/>
+        <meta name="calibre:title_sort" content="Code: The Hidden Language of Computer Hardware and Software"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

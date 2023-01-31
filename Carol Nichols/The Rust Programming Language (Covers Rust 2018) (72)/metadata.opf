@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">72</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ffad40b4-c6b1-4ef6-bcab-c3d0fc21e654</dc:identifier>
+        <dc:title>The Rust Programming Language (Covers Rust 2018)</dc:title>
+        <dc:creator opf:file-as="Carol Nichols" opf:role="aut">Carol Nichols</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-05T22:00:00+00:00</dc:date>
+        <dc:description>&lt;span&gt;&lt;div&gt;&lt;p&gt;&lt;i&gt;The Rust Programming Language&lt;/i&gt; is the official book on Rust: an open source systems programming language that helps you write faster, more reliable software. Rust offers control over low-level details (such as memory usage) in combination with high-level ergonomics, eliminating the hassle traditionally associated with low-level languages.&lt;/p&gt;&lt;p&gt;The authors of &lt;i&gt;The Rust Programming Language&lt;/i&gt;, members of the Rust Core Team, share their knowledge and experience to show you how to take full advantage of Rust’s features—from installation to creating robust and scalable programs. You’ll begin with basics like creating functions, choosing data types, and binding variables and then move on to more advanced concepts, such as:&lt;/p&gt;&lt;p&gt;•Ownership and borrowing, lifetimes, and traits&lt;br/&gt;•Using Rust’s memory safety guarantees to build fast, safe programs&lt;br/&gt;•Testing, error handling, and effective refactoring&lt;br/&gt;•Generics, smart pointers, multithreading, trait objects, and advanced pattern matching&lt;br/&gt;•Using Cargo, Rust’s built-in package manager, to build, test, and document your code and manage dependencies&lt;br/&gt;•How best to use Rust’s advanced compiler with compiler-led programming techniques&lt;/p&gt;&lt;p&gt;You’ll find plenty of code examples throughout the book, as well as three chapters dedicated to building complete projects to test your learning: a number guessing game, a Rust implementation of a command line tool, and a multithreaded server.&lt;/p&gt;&lt;p&gt;&lt;b&gt;New to this edition:&lt;/b&gt; An extended section on Rust macros, an expanded chapter on modules, and appendixes on Rust development tools and editions.&lt;/p&gt;&lt;/div&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718500440</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Carol Nichols&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-30T22:06:40.938627+00:00"/>
+        <meta name="calibre:title_sort" content="Rust Programming Language (Covers Rust 2018), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
