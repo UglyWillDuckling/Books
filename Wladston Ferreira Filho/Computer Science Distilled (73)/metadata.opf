@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">73</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c076df4-8d9d-4547-beff-2a9af9d70c6b</dc:identifier>
+        <dc:title>Computer Science Distilled</dc:title>
+        <dc:creator opf:file-as="Filho, Wladston Ferreira" opf:role="aut">Wladston Ferreira Filho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-26T22:00:00+00:00</dc:date>
+        <dc:publisher>Code Energy</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780997316018</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Wladston Ferreira Filho&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-08T10:10:55.126005+00:00"/>
+        <meta name="calibre:title_sort" content="Computer Science Distilled"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
