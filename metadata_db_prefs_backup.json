@@ -91,6 +91,10 @@
   },
   "gui_view_history": [
     [
+      73,
+      "Computer Science Distilled: Learn the Art of Solving Computational Problems"
+    ],
+    [
       61,
       "Practical Vim, Second Edition (for Stefano Alcazi)"
     ],
@@ -145,10 +149,6 @@
     [
       59,
       "Go in Action"
-    ],
-    [
-      58,
-      "I.Vektori"
     ]
   ],
   "field_metadata": {
