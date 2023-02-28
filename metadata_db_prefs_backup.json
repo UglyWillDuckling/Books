@@ -91,6 +91,14 @@
   },
   "gui_view_history": [
     [
+      75,
+      "An Introduction to Object-Oriented Programming, 3rd Edition"
+    ],
+    [
+      74,
+      "Practical Object-Oriented Design"
+    ],
+    [
       61,
       "Practical Vim, Second Edition (for Stefano Alcazi)"
     ],
@@ -141,14 +149,6 @@
     [
       64,
       "Gnuplot in Action: Understanding data with graphs, Second Edition MEAP V06"
-    ],
-    [
-      62,
-      "The Art of Statistics: Learning From Data (Pelican Books)"
-    ],
-    [
-      59,
-      "Go in Action"
     ]
   ],
   "field_metadata": {
