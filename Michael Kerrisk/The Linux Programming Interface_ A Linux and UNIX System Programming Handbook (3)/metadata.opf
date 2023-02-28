@@ -5,24 +5,11 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a0699f6b-7542-446a-a3b6-39079064da7a</dc:identifier>
         <dc:title>The Linux Programming Interface: A Linux and UNIX System Programming Handbook</dc:title>
         <dc:creator opf:file-as="Kerrisk, Michael" opf:role="aut">Michael Kerrisk</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.5.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2010-09-30T22:00:00+00:00</dc:date>
-        <dc:description>&lt;div&gt;
-&lt;p&gt;The Linux Programming Interface (TLPI) is the definitive guide to the Linux and UNIX programming interface—the interface employed by nearly every application that runs on a Linux or UNIX system. &lt;/p&gt;
-&lt;p&gt;In this authoritative work, Linux programming expert Michael Kerrisk provides detailed descriptions of the system calls and library functions that you need in order to master the craft of system programming, and accompanies his explanations with clear, complete example programs. &lt;/p&gt;
-&lt;p&gt;You'll find descriptions of over 500 system calls and library functions, and more than 200 example programs, 88 tables, and 115 diagrams. You'll learn how to:&lt;br&gt;–Read and write files efficiently&lt;br&gt;–Use signals, clocks, and timers&lt;br&gt;–Create processes and execute programs&lt;br&gt;–Write secure programs&lt;br&gt;–Write multithreaded programs using POSIX threads&lt;br&gt;–Build and use shared libraries&lt;br&gt;–Perform interprocess communication using pipes, message queues, shared memory, and semaphores&lt;br&gt;–Write network applications with the sockets API &lt;/p&gt;
-&lt;p&gt;While The Linux Programming Interface covers a wealth of Linux-specific features, including epoll, inotify, and the /proc file system, its emphasis on UNIX standards (POSIX.1-2001/SUSv3 and POSIX.1-2008/SUSv4) makes it equally valuable to programmers working on other UNIX platforms. &lt;/p&gt;
-&lt;p&gt;The Linux Programming Interface is the most comprehensive single-volume work on the Linux and UNIX programming interface, and a book that's destined to become a new classic.&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-10T23:00:00+00:00</dc:date>
+        <dc:publisher>O'Reilly Distribution</dc:publisher>
         <dc:identifier opf:scheme="MOBI-ASIN">B004OEJMZM</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9781593272203</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">1593272200</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">2SAQAQAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>Computers</dc:subject>
-        <dc:subject>Programming</dc:subject>
-        <dc:subject>Open Source</dc:subject>
-        <dc:subject>Operating Systems</dc:subject>
         <dc:subject>unix</dc:subject>
         <dc:subject>linux</dc:subject>
         <dc:subject>development</dc:subject>
