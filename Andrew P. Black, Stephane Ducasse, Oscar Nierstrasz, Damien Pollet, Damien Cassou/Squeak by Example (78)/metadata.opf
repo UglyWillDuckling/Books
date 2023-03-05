@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">78</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22aef268-83d6-4d65-b642-735f11c3838e</dc:identifier>
+        <dc:title>Squeak by Example</dc:title>
+        <dc:creator opf:file-as="Andrew P. Black, Stéphane Ducasse, Oscar Nierstrasz, Damien Pollet, Damien Cassou &amp; Denker, Marcus" opf:role="aut">Andrew P. Black, Stéphane Ducasse, Oscar Nierstrasz, Damien Pollet, Damien Cassou</dc:creator>
+        <dc:creator opf:file-as="Andrew P. Black, Stéphane Ducasse, Oscar Nierstrasz, Damien Pollet, Damien Cassou &amp; Denker, Marcus" opf:role="aut">Marcus Denker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-12T16:40:32+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>oop</dc:subject>
+        <dc:subject>smalltalk</dc:subject>
+        <dc:subject>squeak</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Andrew P. Black, Stéphane Ducasse, Oscar Nierstrasz, Damien Pollet, Damien Cassou&quot;: &quot;&quot;, &quot;Marcus Denker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-05T14:32:32.317926+00:00"/>
+        <meta name="calibre:title_sort" content="Squeak by Example"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

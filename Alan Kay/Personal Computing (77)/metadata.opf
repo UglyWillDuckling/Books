@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">77</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28e18fb7-5dc2-45de-a4f9-f6a3d38e9f5f</dc:identifier>
+        <dc:title>Personal Computing</dc:title>
+        <dc:creator opf:file-as="alan kay" opf:role="aut">Alan Kay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-28T00:00:00+00:00</dc:date>
+        <dc:publisher>Routledge</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">113842918X</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781138429185</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>oop</dc:subject>
+        <dc:subject>programming</dc:subject>
+        <dc:subject>personal</dc:subject>
+        <dc:subject>computing</dc:subject>
+        <dc:subject>personal computing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alan Kay&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="1971-03-05T14:31:48.982000+00:00"/>
+        <meta name="calibre:title_sort" content="Personal Computing"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

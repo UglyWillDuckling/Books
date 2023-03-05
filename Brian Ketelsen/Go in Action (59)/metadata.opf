@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Ketelsen, Brian &amp; Martin, Erik St. &amp; Kennedy, William" opf:role="aut">Brian Ketelsen</dc:creator>
         <dc:creator opf:file-as="Ketelsen, Brian &amp; Martin, Erik St. &amp; Kennedy, William" opf:role="aut">Erik St. Martin</dc:creator>
         <dc:creator opf:file-as="Ketelsen, Brian &amp; Martin, Erik St. &amp; Kennedy, William" opf:role="aut">William Kennedy</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.7.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-11-26T12:29:43+00:00</dc:date>
         <dc:description>&lt;p&gt;SummaryGo in Action introduces the Go language, guiding you from inquisitive developer to Go guru. The book begins by introducing the unique features and concepts of Go. Then, you'll get hands-on experience writing real-world applications including websites and network servers, as well as techniques to manipulate and convert data at speeds that will make your friends jealous.&lt;/p&gt;
 
@@ -27,7 +27,7 @@
         <dc:identifier opf:scheme="ISBN">9781617291784</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
-        <dc:subject>Programming</dc:subject>
+        <dc:subject>programming</dc:subject>
         <dc:subject>General</dc:subject>
         <dc:subject>Data Processing</dc:subject>
         <dc:subject>Databases</dc:subject>

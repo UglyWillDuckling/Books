@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">eb48448b-4643-4961-b554-609f9eb1bd88</dc:identifier>
         <dc:title>UNIX: A History and a Memoir</dc:title>
         <dc:creator opf:file-as="Kernighan, Brian" opf:role="aut">Brian Kernighan</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-10-18T17:10:29+00:00</dc:date>
         <dc:language>en</dc:language>
         <dc:subject>unix</dc:subject>
@@ -21,10 +21,10 @@
         <dc:subject>linux</dc:subject>
         <dc:subject>Minix</dc:subject>
         <dc:subject>Operating Systems</dc:subject>
-        <dc:subject>Programming</dc:subject>
+        <dc:subject>programming</dc:subject>
         <dc:subject>Software</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Brian Kernighan&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-09-25T17:13:46.811509+00:00"/>
+        <meta name="calibre:timestamp" content="2022-09-25T17:13:46+00:00"/>
         <meta name="calibre:title_sort" content="UNIX: A History and a Memoir"/>
     </metadata>
     <guide>

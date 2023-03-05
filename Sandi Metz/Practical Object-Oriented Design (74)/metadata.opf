@@ -10,6 +10,7 @@
         <dc:description>&lt;b&gt; &lt;p&gt;The Complete Guide to Writing Maintainable, Manageable, Pleasing, and Powerful Object-Oriented Applications&lt;/p&gt; &lt;/b&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;Object-oriented programming languages exist to help you create beautiful, straightforward applications that are easy to change and simple to extend. Unfortunately, the world is awash with object-oriented (OO) applications that are difficult to understand and expensive to change. &lt;i&gt; &lt;b&gt;Practical Object-Oriented Design, Second Edition,&lt;/b&gt; &lt;/i&gt; immerses you in an OO mindset and teaches you powerful, real-world, object-oriented design techniques with simple and practical examples.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;Sandi Metz demonstrates how to build new applications that can "survive success" and repair existing applications that have become impossible to change. Each technique is illustrated with extended examples in the easy-to-understand Ruby programming language, all downloadable from the companion website, poodr.com. Fully updated for Ruby 2.5, this...</dc:description>
         <dc:publisher>Pearson Education</dc:publisher>
         <dc:language>eng</dc:language>
+        <dc:subject>oop</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Sandi Metz&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-02-28T20:10:15+00:00"/>
         <meta name="calibre:title_sort" content="Practical Object-Oriented Design"/>

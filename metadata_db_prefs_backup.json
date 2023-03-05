@@ -91,6 +91,22 @@
   },
   "gui_view_history": [
     [
+      85,
+      "Back to the future, The Story of Squeak"
+    ],
+    [
+      77,
+      "Microelectronics - Systems and Devices"
+    ],
+    [
+      80,
+      "early history of smalltalk"
+    ],
+    [
+      78,
+      "Squeak by Example"
+    ],
+    [
       74,
       "Practical Object-Oriented Design"
     ],
@@ -133,22 +149,6 @@
     [
       67,
       "The Electric State"
-    ],
-    [
-      66,
-      "Hands-on Rust"
-    ],
-    [
-      63,
-      "At Home in the Universe: The Search for the Laws of Self-Organization and Complexity"
-    ],
-    [
-      65,
-      "Modern Vim"
-    ],
-    [
-      64,
-      "Gnuplot in Action: Understanding data with graphs, Second Edition MEAP V06"
     ]
   ],
   "field_metadata": {

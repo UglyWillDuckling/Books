@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">79</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">936723d2-035a-4727-8a74-76b1bb79245c</dc:identifier>
+        <dc:title>Software Tools</dc:title>
+        <dc:creator opf:file-as="Kernighan, Brian W." opf:role="aut">Brian W. Kernighan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-15T14:35:57.619603+00:00</dc:date>
+        <dc:publisher>휴먼싸이언스</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">qApqjwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788993712674</dc:identifier>
+        <dc:language>kor</dc:language>
+        <dc:subject>programming</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brian W. Kernighan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-05T14:34:39.804913+00:00"/>
+        <meta name="calibre:title_sort" content="software tools"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
