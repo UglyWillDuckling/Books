@@ -3,9 +3,9 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">91563579-2651-40ef-b8ac-4564175fc607</dc:identifier>
-        <dc:title>Refactoring: Improving the Design of Existing Code, Second Edition (Garner McCloud's Library)</dc:title>
+        <dc:title>Refactoring: Improving the Design of Existing Code</dc:title>
         <dc:creator opf:file-as="Fowler, Martin" opf:role="aut">Martin Fowler</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.6.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-10-15T00:00:00+00:00</dc:date>
         <dc:publisher>Addison-Wesley Professional</dc:publisher>
         <dc:language>eng</dc:language>

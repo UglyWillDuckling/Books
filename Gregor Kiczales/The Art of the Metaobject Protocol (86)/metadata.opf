@@ -8,20 +8,21 @@
         <dc:creator opf:file-as="Kiczales, Gregor &amp; Rivieres, Jim Des &amp; Bobrow, Daniel G." opf:role="aut">Jim Des Rivieres</dc:creator>
         <dc:creator opf:file-as="Kiczales, Gregor &amp; Rivieres, Jim Des &amp; Bobrow, Daniel G." opf:role="aut">Daniel G. Bobrow</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>1991-07-30T17:43:46.016872+00:00</dc:date>
+        <dc:date>1991-07-30T17:43:46+00:00</dc:date>
         <dc:description>&lt;p&gt;The authors introduce this new approach to programming language design, describe its evolution and design principles, and present a formal specification of a metaobject protocol for CLOS.The CLOS metaobject protocol is an elegant, high-performance extension to the CommonLisp Object System. The authors, who developed the metaobject protocol and who were among the group that developed CLOS, introduce this new approach to programming language design, describe its evolution and design principles, and present a formal specification of a metaobject protocol for CLOS.Kiczales, des Rivières, and Bobrow show that the "art of metaobject protocol design" lies in creating a synthetic combination of object-oriented and reflective techniques that can be applied under existing software engineering considerations to yield a new approach to programming language design that meets a broad set of design criteria.&lt;/p&gt;
 
 &lt;p&gt;One of the major benefits of including the metaobject protocol in programming languages is that it allows users to adjust the language to better suit their needs. Metaobject protocols also disprove the adage that adding more flexibility to a programming language reduces its performance. In presenting the principles of metaobject protocols, the authors work with actual code for a simplified implementation of CLOS and its metaobject protocol, providing an opportunity for the reader to gain hands-on experience with the design process. They also include a number of exercises that address important concerns and open issues.&lt;/p&gt;
 
 &lt;p&gt;Gregor Kiczales and Jim des Rivières, are Members of the Research Staff, and Daniel Bobrow is a Research Fellow, in the System Sciences Laboratory at Xerox Palo Alto Research Center.&lt;/p&gt;</dc:description>
         <dc:publisher>MIT Press</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">3X5Gnudn3k0C</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780262610742</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">3X5Gnudn3k0C</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Computer Science</dc:subject>
+        <dc:subject>oop</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Gregor Kiczales&quot;: &quot;&quot;, &quot;Jim Des Rivieres&quot;: &quot;&quot;, &quot;Daniel G. Bobrow&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-03-05T17:43:15.395369+00:00"/>
+        <meta name="calibre:timestamp" content="2023-03-05T17:43:15+00:00"/>
         <meta name="calibre:title_sort" content="Art of the Metaobject Protocol, The"/>
     </metadata>
     <guide>
