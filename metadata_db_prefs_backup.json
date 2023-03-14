@@ -5,15 +5,53 @@
   "grouped_search_terms": {},
   "tag_browser_hidden_categories": [],
   "library_view books view state": {
+    "column_alignment": {
+      "pubdate": "center",
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "#lastopened": 1,
+      "authors": 3,
+      "languages": 12,
+      "last_modified": 11,
+      "ondevice": 0,
+      "pubdate": 6,
+      "publisher": 9,
+      "rating": 5,
+      "series": 10,
+      "size": 8,
+      "tags": 7,
+      "timestamp": 4,
+      "title": 2
+    },
+    "column_sizes": {
+      "#lastopened": 100,
+      "authors": 329,
+      "languages": 0,
+      "last_modified": 0,
+      "pubdate": 99,
+      "publisher": 194,
+      "rating": 106,
+      "series": 0,
+      "size": 0,
+      "tags": 157,
+      "timestamp": 98,
+      "title": 389
+    },
     "hidden_columns": [
       "size",
       "series",
       "last_modified",
       "languages"
     ],
-    "last_modified_injected": true,
     "languages_injected": true,
+    "last_modified_injected": true,
     "sort_history": [
+      [
+        "#lastopened",
+        false
+      ],
       [
         "series",
         true
@@ -23,53 +61,14 @@
         false
       ],
       [
-        "title",
-        false
-      ],
-      [
-        "publisher",
-        false
-      ],
-      [
         "timestamp",
         false
       ]
-    ],
-    "column_positions": {
-      "ondevice": 0,
-      "title": 1,
-      "authors": 2,
-      "timestamp": 3,
-      "size": 7,
-      "rating": 4,
-      "tags": 6,
-      "series": 9,
-      "publisher": 8,
-      "pubdate": 5,
-      "last_modified": 10,
-      "languages": 11
-    },
-    "column_sizes": {
-      "title": 389,
-      "authors": 329,
-      "timestamp": 98,
-      "size": 0,
-      "rating": 106,
-      "tags": 157,
-      "series": 0,
-      "publisher": 194,
-      "pubdate": 99,
-      "last_modified": 0,
-      "languages": 0
-    },
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    }
+    ]
   },
   "books view split pane state": {
     "column_positions": {
+      "#lastopened": 12,
       "authors": 2,
       "languages": 11,
       "last_modified": 10,
@@ -84,6 +83,7 @@
       "title": 1
     },
     "column_sizes": {
+      "#lastopened": 100,
       "authors": 100,
       "languages": 100,
       "last_modified": 100,
@@ -100,20 +100,24 @@
   },
   "gui_view_history": [
     [
-      75,
-      "An Introduction to Object-Oriented Programming, 3rd Edition"
-    ],
-    [
       74,
       "Practical Object-Oriented Design"
     ],
     [
-      77,
-      "Personal Computing"
-    ],
-    [
       88,
       "Object-Oriented Software Construction"
+    ],
+    [
+      80,
+      "early history of smalltalk"
+    ],
+    [
+      75,
+      "An Introduction to Object-Oriented Programming, 3rd Edition"
+    ],
+    [
+      77,
+      "Personal Computing"
     ],
     [
       85,
@@ -122,10 +126,6 @@
     [
       77,
       "Microelectronics - Systems and Devices"
-    ],
-    [
-      80,
-      "early history of smalltalk"
     ],
     [
       78,
@@ -161,6 +161,30 @@
     ]
   ],
   "field_metadata": {
+    "#lastopened": {
+      "category_sort": "value",
+      "colnum": 1,
+      "column": "value",
+      "datatype": "datetime",
+      "display": {
+        "date_format": null,
+        "description": ""
+      },
+      "is_category": false,
+      "is_csp": false,
+      "is_custom": true,
+      "is_editable": true,
+      "is_multiple": {},
+      "kind": "field",
+      "label": "lastopened",
+      "link_column": "value",
+      "name": "lastopened",
+      "rec_index": 22,
+      "search_terms": [
+        "#lastopened"
+      ],
+      "table": "custom_column_1"
+    },
     "au_map": {
       "column": null,
       "datatype": "text",
@@ -338,7 +362,7 @@
       "kind": "field",
       "label": "in_tag_browser",
       "name": null,
-      "rec_index": 25,
+      "rec_index": 26,
       "search_terms": [
         "in_tag_browser"
       ],
@@ -401,7 +425,7 @@
       "kind": "field",
       "label": "marked",
       "name": null,
-      "rec_index": 23,
+      "rec_index": 24,
       "search_terms": [
         "marked"
       ],
@@ -435,7 +459,7 @@
       "kind": "field",
       "label": "ondevice",
       "name": "On device",
-      "rec_index": 22,
+      "rec_index": 23,
       "search_terms": [
         "ondevice"
       ],
@@ -567,7 +591,7 @@
       "kind": "field",
       "label": "series_sort",
       "name": "Series sort",
-      "rec_index": 24,
+      "rec_index": 25,
       "search_terms": [
         "series_sort"
       ],
@@ -788,9 +812,18 @@
     [
       "languages",
       false
+    ],
+    [
+      "#lastopened",
+      true
     ]
   ],
-  "edit_metadata_custom_columns_to_display": [],
+  "edit_metadata_custom_columns_to_display": [
+    [
+      "#lastopened",
+      true
+    ]
+  ],
   "qv_display_fields": [
     [
       "title",
@@ -863,10 +896,17 @@
     [
       "uuid",
       false
+    ],
+    [
+      "#lastopened",
+      false
     ]
   ],
   "column_color_rules": [],
   "column_icon_rules": [],
   "cover_grid_icon_rules": [],
-  "update_all_last_mod_dates_on_start": true
+  "update_all_last_mod_dates_on_start": false,
+  "virt_libs_hidden": [
+    "temp"
+  ]
 }
