@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9fe8eae1-c8df-4316-a765-1fa14b85b160</dc:identifier>
         <dc:title>Practical Object-Oriented Design</dc:title>
         <dc:creator opf:file-as="Metz, Sandi" opf:role="aut">Sandi Metz</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-02-15T00:00:00+00:00</dc:date>
         <dc:description>&lt;b&gt; &lt;p&gt;The Complete Guide to Writing Maintainable, Manageable, Pleasing, and Powerful Object-Oriented Applications&lt;/p&gt; &lt;/b&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;Object-oriented programming languages exist to help you create beautiful, straightforward applications that are easy to change and simple to extend. Unfortunately, the world is awash with object-oriented (OO) applications that are difficult to understand and expensive to change. &lt;i&gt; &lt;b&gt;Practical Object-Oriented Design, Second Edition,&lt;/b&gt; &lt;/i&gt; immerses you in an OO mindset and teaches you powerful, real-world, object-oriented design techniques with simple and practical examples.&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;Sandi Metz demonstrates how to build new applications that can "survive success" and repair existing applications that have become impossible to change. Each technique is illustrated with extended examples in the easy-to-understand Ruby programming language, all downloadable from the companion website, poodr.com. Fully updated for Ruby 2.5, this...</dc:description>
         <dc:publisher>Pearson Education</dc:publisher>

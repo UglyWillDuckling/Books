@@ -5,8 +5,8 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a0699f6b-7542-446a-a3b6-39079064da7a</dc:identifier>
         <dc:title>The Linux Programming Interface: A Linux and UNIX System Programming Handbook</dc:title>
         <dc:creator opf:file-as="Kerrisk, Michael" opf:role="aut">Michael Kerrisk</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2010-10-01T10:55:02.490414+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-01T10:55:02+00:00</dc:date>
         <dc:description>&lt;h3&gt;Product Description&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;The Linux Programming Interface&lt;/em&gt; (TLPI) is the definitive guide to the Linux and UNIX programming interface—the interface employed by nearly every application that runs on a Linux or UNIX system.  &lt;/p&gt;
 &lt;p&gt;In this authoritative work, Linux programming expert Michael Kerrisk provides detailed descriptions of the system calls and library functions that you need in order to master the craft of system programming, and accompanies his explanations with clear, complete example programs.  &lt;/p&gt;
@@ -24,10 +24,10 @@
 &lt;h3&gt;About the Author&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Michael Kerrisk&lt;/strong&gt; has been using and programming UNIX systems for more than 20 years, and has taught many week-long courses on UNIX system programming. Since 2004, he has maintained the &lt;em&gt;man-pages project&lt;/em&gt; (http://www.kernel.org/doc/man-pages/), which produces the manual pages describing the Linux kernel and glibc programming APIs. He has written or co-written more than 250 of the manual pages and is actively involved in the testing and design review of new Linux kernel-userspace interfaces. Michael lives with his family in Munich, Germany.&lt;/p&gt;</dc:description>
         <dc:publisher>No Starch Press</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">B004OEJMZM</dc:identifier>
-        <dc:identifier opf:scheme="GOOGLE">2SAQAQAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781593272203</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">2SAQAQAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1593272200</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B004OEJMZM</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>linux</dc:subject>
         <dc:subject>Operating Systems</dc:subject>

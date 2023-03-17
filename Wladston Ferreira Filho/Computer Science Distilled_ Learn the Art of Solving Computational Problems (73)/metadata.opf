@@ -10,8 +10,8 @@
         <dc:description>&lt;div&gt;
 &lt;p&gt;A walkthrough of computer science concepts you must know. Designed for readers who don't care for academic formalities, it's a fast and easy computer science guide. It teaches the foundations you need to program computers effectively. After a simple introduction to discrete math, it presents common algorithms and data structures. It also outlines the principles that make computers and programming languages work.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Code Energy</dc:publisher>
-        <dc:identifier opf:scheme="GOOGLE">epmcEAAAQBAJ</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780997316018</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">epmcEAAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Computers</dc:subject>
         <dc:subject>Computer Science</dc:subject>
@@ -21,6 +21,7 @@
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-02-08T10:10:55+00:00"/>
         <meta name="calibre:title_sort" content="Computer Science Distilled: Learn the Art of Solving Computational Problems"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
         <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;local&quot;, &quot;user&quot;: &quot;viewer&quot;, &quot;annotation&quot;: {&quot;end_cfi&quot;: &quot;/2/4/2[data]/202/2/1:6&quot;, &quot;highlighted_text&quot;: &quot;behind&quot;, &quot;spine_index&quot;: 10, &quot;spine_name&quot;: &quot;OEBPS/Text/CSD-7.xhtml&quot;, &quot;start_cfi&quot;: &quot;/2/4/2[data]/202/2/1:0&quot;, &quot;style&quot;: {&quot;kind&quot;: &quot;color&quot;, &quot;type&quot;: &quot;builtin&quot;, &quot;which&quot;: &quot;yellow&quot;}, &quot;timestamp&quot;: &quot;2023-02-08T10:14:07.974Z&quot;, &quot;toc_family_titles&quot;: [&quot;4 Data&quot;, &quot;4.2 Common Abstractions&quot;], &quot;type&quot;: &quot;highlight&quot;, &quot;uuid&quot;: &quot;iGVZnG9LlsjlFWwxh6yp-Q&quot;}}"/>
     </metadata>
     <guide>
