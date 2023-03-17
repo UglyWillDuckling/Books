@@ -5,12 +5,18 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">73454a68-1e1f-4113-a00f-742547a362da</dc:identifier>
         <dc:title>data-abstraction-and-hierarchy</dc:title>
         <dc:creator opf:file-as="Unknown" opf:role="aut">Barbara Liskov</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2002-09-30T14:53:57+00:00</dc:date>
         <dc:language>en</dc:language>
+        <dc:subject>abstraction</dc:subject>
+        <dc:subject>hierarchy</dc:subject>
+        <dc:subject>class</dc:subject>
+        <dc:subject>inheritence</dc:subject>
+        <dc:subject>programming</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Barbara Liskov&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2023-03-09T21:27:46.354525+00:00"/>
+        <meta name="calibre:timestamp" content="2023-03-09T21:27:46+00:00"/>
         <meta name="calibre:title_sort" content="data-abstraction-and-hierarchy"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

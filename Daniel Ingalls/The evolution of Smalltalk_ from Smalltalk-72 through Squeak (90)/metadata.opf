@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">90</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a9c3d38-5b3f-4421-8ebc-4199290e4d43</dc:identifier>
+        <dc:title>The evolution of Smalltalk: from Smalltalk-72 through Squeak</dc:title>
+        <dc:creator opf:file-as="Ingalls, Daniel" opf:role="aut">Daniel Ingalls</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="DOI">10.1145/3386335</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>oop</dc:subject>
+        <dc:subject>Proc. ACM Program. Lang. 2020.4:1-101</dc:subject>
+        <dc:subject>smalltalk</dc:subject>
+        <dc:subject>squeak</dc:subject>
+        <dc:subject>Alto</dc:subject>
+        <dc:subject>NoteTaker</dc:subject>
+        <dc:subject>OOZE</dc:subject>
+        <dc:subject>BitBlt</dc:subject>
+        <dc:subject>Morphic</dc:subject>
+        <dc:subject>EToys</dc:subject>
+        <dc:subject>objects</dc:subject>
+        <dc:subject>Blocks</dc:subject>
+        <dc:subject>Bytecode</dc:subject>
+        <dc:subject>Interpreter</dc:subject>
+        <dc:subject>Virtual Machine</dc:subject>
+        <dc:subject>Bootstrap</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Ingalls&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-16T09:42:26.410700+00:00"/>
+        <meta name="calibre:title_sort" content="evolution of Smalltalk: from Smalltalk-72 through Squeak, The"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

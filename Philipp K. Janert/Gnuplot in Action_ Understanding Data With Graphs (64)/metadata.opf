@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca7fed2a-dab5-4a77-b7be-cf0773170214</dc:identifier>
+        <dc:title>Gnuplot in Action: Understanding Data With Graphs</dc:title>
+        <dc:creator opf:file-as="Janert, Philipp K." opf:role="aut">Philipp K. Janert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-28T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Statistical data is only as valuable as your ability to analyze, interpret, and present it in a meaningful way. Gnuplot is the most widely used program to plot and visualize data for Unix/Linux systems and it is also popular for Windows and the Mac. It's open-source (as in free!), actively maintained, stable, and mature. It can deal with arbitrarily large data sets and is capable of producing high-quality, publication-ready graphics.&lt;/p&gt;
+&lt;p&gt;So far, the only comprehensive documentation available about gnuplot is the online reference documentation, which makes it both hard to get started and almost impossible to get a complete overview over all of its features. If you've never tried gnuplot "or have found it tough to get your arms around "read on.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Gnuplot in Action&lt;/em&gt; is the first comprehensive introduction to gnuplot "from the basics to the power features and beyond. Besides providing a tutorial on gnuplot itself, it demonstrates how to apply and use gnuplot to extract intelligence from data. Particular attention is paid to tricky or poorly-explained areas. You will learn how to apply gnuplot to actual data analysis problems. This book looks at different types of graphs that can be generated with gnuplot and will discuss when and how to use them to extract actual information from data.&lt;/p&gt;
+&lt;p&gt;One of gnuplot's main advantages is that it requires no programming skills nor knowledge of advanced mathematical or statistical concepts. Gnuplot in Action assumes you have no previous knowledge of either gnuplot or statistics and data analysis. The books starts out with basic gnuplot concepts, then describes in depth how to get a graph ready for final presentation and to make it look "just right" by including arrows, labels, and other decorations.&lt;/p&gt;
+&lt;p&gt;Next the book looks at advanced concepts, such as multi-dimensional graphs and false-color plots "powerful features for special purposes. The author also describes advanced applications of gnuplot, such as how to script gnuplot so that it can run unattended as a batch job, and how to call gnuplot from within a CGI script to generate graphics for dynamic websites on demand.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Gnuplot in Action&lt;/em&gt; makes gnuplot easy for anyone who needs to do data analysis, but doesn't have an education in analytical tools and methods. It's perfect for DBAs, programmers, and performance engineers; business analysts and MBAs; and Six-Sigma Black Belts, and process engineers.&lt;/p&gt;
+&lt;p&gt;What's Inside:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Creating graphs with gnuplot&lt;/li&gt;
+&lt;li&gt;Data transformations and filters&lt;/li&gt;
+&lt;li&gt;Preparing/polishing graphs for final presentation&lt;/li&gt;
+&lt;li&gt;Publishing graphs in print or on the Web&lt;/li&gt;
+&lt;li&gt;Using gnuplot's power features&lt;/li&gt;
+&lt;li&gt;Gnuplot scripting and programming&lt;/li&gt;
+&lt;li&gt;Types of graphs and when to use them&lt;/li&gt;
+&lt;li&gt;Techniques of graphical analysis&lt;/li&gt;
+&lt;li&gt;How to build, install, and develop for gnuplot&lt;/li&gt;
+&lt;li&gt;Command and Option reference organized by concept&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Purchase of the print book comes with an offer of a free PDF, ePub, and Kindle eBook from Manning. Also available is all code from the book. &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Manning Publications</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1933988398</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781933988399</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Philipp K. Janert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-05T10:15:54+00:00"/>
+        <meta name="calibre:title_sort" content="Gnuplot in Action: Understanding Data With Graphs"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

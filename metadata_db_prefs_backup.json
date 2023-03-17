@@ -27,10 +27,6 @@
         true
       ],
       [
-        "rating",
-        false
-      ],
-      [
         "timestamp",
         false
       ]

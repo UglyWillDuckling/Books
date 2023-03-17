@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">65</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14f92d0f-0068-44d5-b1d1-4c36e1304433</dc:identifier>
+        <dc:title>Modern Vim: Craft Your Development Environment With Vim 8 and Neovim</dc:title>
+        <dc:creator opf:file-as="Neil, Drew" opf:role="aut">Drew Neil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-03T10:54:13.850370+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Turn Vim into a full-blown development environment using Vim 8's new features and this sequel to the beloved bestseller &lt;em&gt;Practical Vim&lt;/em&gt;. Integrate your editor with tools for building, testing, linting, indexing, and searching your codebase. Discover the future of Vim with Neovim: a fork of Vim that includes a built-in terminal emulator that will transform your workflow. Whether you choose to switch to Neovim or stick with Vim 8, you'll be a better developer.&lt;/p&gt;
+&lt;p&gt;A serious tool for programmers and web developers, no other text editor comes close to Vim for speed and efficiency. Make Vim the centerpiece of a Unix-based IDE as you discover new ways to work with Vim 8 and Neovim in more than 20 hands-on tips.&lt;/p&gt;
+&lt;p&gt;Execute tasks asynchronously, allowing you to continue in Vim while linting, grepping, building a project, or running a test suite. Install plugins to be loaded on startup - or on-demand when you need them - with Vim 8's new package support. Save and restore sessions, enabling you to quit Vim and restart again while preserving your window layout and undo history. Use Neovim as a drop-in replacement for Vim - it supports all of the features Vim 8 offers and more, including an integrated terminal that lets you quickly perform interactive commands. And if you enjoy using tmux and Vim together, you'll love Neovim's terminal emulator, which lets you run an interactive shell in a buffer. The terminal buffers fit naturally with Vim's split windows, and you can use Normal mode commands to scroll, search, copy, and paste. On top of all that: Neovim's terminal buffers are scriptable.&lt;/p&gt;
+&lt;p&gt;With Vim at the core of your development environment, you'll become a faster and more efficient developer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What You Need:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You'll need a Unix-based environment and an up-to-date release of Vim (8.0 or newer). For the tips about running a terminal emulator, you'll need to install Neovim.&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Drew Neil is a programmer, trainer, and entrepreneur. He runs Studio Nelstrom, which specializes in making educational screencasts. At vimcasts.org he publishes articles and video tutorials about Vim.&lt;/p&gt;</dc:description>
+        <dc:publisher>Pragmatic Bookshelf</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">o-FdDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781680502626</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">168050262X</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tools</dc:subject>
+        <dc:subject>Pragmatic Bookshelf</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>programming</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Drew Neil&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-01-10T17:33:12+00:00"/>
+        <meta name="calibre:title_sort" content="Modern Vim: Craft Your Development Environment With Vim 8 and Neovim"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
