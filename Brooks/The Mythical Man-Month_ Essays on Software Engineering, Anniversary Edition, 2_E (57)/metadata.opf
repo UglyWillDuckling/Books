@@ -5,8 +5,8 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">d82dcfc3-43e0-49e8-ab4d-958b9984aa52</dc:identifier>
         <dc:title>The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition, 2/E</dc:title>
         <dc:creator opf:file-as="Brooks" opf:role="aut">Brooks</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>1995-09-15T10:55:55.095524+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-09-15T16:25:19.582257+00:00</dc:date>
         <dc:description>&lt;p class="description"&gt;Essays on Software Engineering, Anniversary Edition (2nd Edition)&lt;/p&gt;</dc:description>
         <dc:publisher>Pearson Education</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9788177581621</dc:identifier>
