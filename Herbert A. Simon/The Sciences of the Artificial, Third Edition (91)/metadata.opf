@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">91</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d51a6715-5443-4750-b2e7-35609682a7a6</dc:identifier>
+        <dc:title>The Sciences of the Artificial, Third Edition</dc:title>
+        <dc:creator opf:file-as="Simon, Herbert A." opf:role="aut">Herbert A. Simon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-09-26T18:52:56.204957+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;People sometimes ask me what they should read to find out about artificial intelligence. Herbert Simon's book &lt;em&gt;The Sciences of the Artificial&lt;/em&gt; is always on the list I give them. Every page issues a challenge to conventional thinking, and the layman who digests it well will certainly understand what the field of artificial intelligence hopes to accomplish. I recommend it in the same spirit that I recommend Freud to people who ask about psychoanalysis, or Piaget to those who ask about child psychology: if you want to learn about a subject, start by reading its founding fathers. &lt;/p&gt;
+&lt;p&gt;(George A. Miller &lt;em&gt;Complex Information Processing&lt;/em&gt; )&lt;/p&gt;
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Continuing his exploration of the organization of complexity and the science of design, this new edition of Herbert Simon's classic work on artificial intelligence adds a chapter that sorts out the current themes and tools—chaos, adaptive systems, genetic algorithms—for analyzing complexity and complex systems. There are updates throughout the book as well. These take into account important advances in cognitive psychology and the science of design while confirming and extending the book's basic thesis: that a physical symbol system has the necessary and sufficient means for intelligent action. The chapter "Economic Reality" has also been revised to reflect a change in emphasis in Simon's thinking about the respective roles of organizations and markets in economic systems.&lt;/p&gt;
+&lt;h3&gt;Manufacturer Contact Information&lt;/h3&gt;
+&lt;p&gt;The MIT Press; mitpress-orders@mit.edu&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Herbert Simon is Professor of Psychology at Carnegie-Mellon University. He was awarded the Nobel Prize in economics in 1978.&lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;As the Earth has made more than 5,000 rotations since The Sciences of the Artificial was last revised, in 1981, it is time to ask what changes in our understanding of the world call for changes in the text.&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"If one were to read a single book that would encompass the essential Simon, I would suggest the slim volume &lt;em&gt;The Sciences of the Artificial&lt;/em&gt; , written for a broad scientific audience. In an elegant and lucid way, Simon explains the principles of modeling complex systems, particularly the human information-processing system that we call the mind."&lt;/p&gt;
+&lt;p&gt;― &lt;strong&gt;Edward A. Feigenbaum&lt;/strong&gt; , &lt;em&gt;Science&lt;/em&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>MIT Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">k5Sr0nFw7psC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780262264495</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08BT9CXHM</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert A. Simon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-20T18:52:46.462153+00:00"/>
+        <meta name="calibre:title_sort" content="Sciences of the Artificial, Third Edition, The"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2023-03-20T18:53:33.933498+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
