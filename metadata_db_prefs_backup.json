@@ -100,6 +100,10 @@
   },
   "gui_view_history": [
     [
+      91,
+      "The Sciences of the Artificial, Third Edition"
+    ],
+    [
       68,
       "Code: The Hidden Language of Computer Hardware and Software"
     ],
@@ -154,10 +158,6 @@
     [
       72,
       "The Rust Programming Language (Covers Rust 2018)"
-    ],
-    [
-      70,
-      "The Rust Programming Language"
     ]
   ],
   "field_metadata": {
