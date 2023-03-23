@@ -100,6 +100,10 @@
   },
   "gui_view_history": [
     [
+      88,
+      "Object-Oriented Software Construction"
+    ],
+    [
       92,
       "An Introduction to Object-Oriented Programming, 3rd Edition"
     ],
@@ -130,10 +134,6 @@
     [
       74,
       "Practical Object-Oriented Design"
-    ],
-    [
-      88,
-      "Object-Oriented Software Construction"
     ],
     [
       85,
@@ -733,8 +733,8 @@
     30
   ],
   "virtual_libraries": {
-    "Object Oriented Programming": "tags:\"=oop\"",
-    "temp": "test"
+    "temp": "test",
+    "Object Oriented Programming": "tags:\"=oop\""
   },
   "book_display_fields": [
     [
@@ -909,5 +909,9 @@
   "virt_libs_hidden": [
     "temp"
   ],
-  "grouped_search_make_user_categories": []
+  "grouped_search_make_user_categories": [],
+  "virt_libs_order": [
+    "Object Oriented Programming",
+    ""
+  ]
 }
