@@ -5,11 +5,7 @@
   "grouped_search_terms": {},
   "tag_browser_hidden_categories": [],
   "library_view books view state": {
-    "column_alignment": {
-      "pubdate": "center",
-      "size": "center",
-      "timestamp": "center"
-    },
+    "column_alignment": {},
     "column_positions": {
       "#lastopened": 1,
       "authors": 3,
@@ -27,17 +23,17 @@
     },
     "column_sizes": {
       "#lastopened": 100,
-      "authors": 329,
+      "authors": 106,
       "languages": 0,
       "last_modified": 0,
-      "pubdate": 99,
-      "publisher": 194,
-      "rating": 106,
+      "pubdate": 100,
+      "publisher": 98,
+      "rating": 75,
       "series": 0,
       "size": 0,
-      "tags": 157,
-      "timestamp": 98,
-      "title": 422
+      "tags": 61,
+      "timestamp": 89,
+      "title": 170
     },
     "hidden_columns": [
       "size",
@@ -48,18 +44,6 @@
     "languages_injected": true,
     "last_modified_injected": true,
     "sort_history": [
-      [
-        "#lastopened",
-        false
-      ],
-      [
-        "rating",
-        false
-      ],
-      [
-        "#lastopened",
-        false
-      ],
       [
         "timestamp",
         false
@@ -100,6 +84,26 @@
   },
   "gui_view_history": [
     [
+      81,
+      "CS-61A Notes"
+    ],
+    [
+      84,
+      "A Programming Language"
+    ],
+    [
+      82,
+      "Computation: Finite and Infinite Machines"
+    ],
+    [
+      83,
+      "Advances in Programming and Non-Numerical Computation"
+    ],
+    [
+      91,
+      "The Sciences of the Artificial, Third Edition"
+    ],
+    [
       88,
       "Object-Oriented Software Construction"
     ],
@@ -116,20 +120,8 @@
       "early history of smalltalk"
     ],
     [
-      91,
-      "The Sciences of the Artificial, Third Edition"
-    ],
-    [
       68,
       "Code: The Hidden Language of Computer Hardware and Software"
-    ],
-    [
-      82,
-      "Computation: Finite and Infinite Machines"
-    ],
-    [
-      83,
-      "Advances in Programming and Non-Numerical Computation"
     ],
     [
       74,
@@ -150,14 +142,6 @@
     [
       61,
       "Practical Vim, Second Edition (for Stefano Alcazi)"
-    ],
-    [
-      73,
-      "Computer Science Distilled: Learn the Art of Solving Computational Problems"
-    ],
-    [
-      72,
-      "The Rust Programming Language (Covers Rust 2018)"
     ]
   ],
   "field_metadata": {
@@ -733,8 +717,8 @@
     30
   ],
   "virtual_libraries": {
-    "temp": "test",
-    "Object Oriented Programming": "tags:\"=oop\""
+    "Object Oriented Programming": "tags:\"=oop\"",
+    "temp": "test"
   },
   "book_display_fields": [
     [
@@ -911,7 +895,7 @@
   ],
   "grouped_search_make_user_categories": [],
   "virt_libs_order": [
-    "Object Oriented Programming",
-    ""
+    "",
+    "Object Oriented Programming"
   ]
 }
