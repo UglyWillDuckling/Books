@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">95</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b23cc62-32ec-4c09-bd1b-45f54c9e58dd</dc:identifier>
+        <dc:title>Computers and Thought</dc:title>
+        <dc:creator opf:file-as="Feigenbaum, Edward A. &amp; Feldman, Julian" opf:role="aut">Edward A. Feigenbaum</dc:creator>
+        <dc:creator opf:file-as="Feigenbaum, Edward A. &amp; Feldman, Julian" opf:role="aut">Julian Feldman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-04-15T11:43:32.412705+00:00</dc:date>
+        <dc:description>&lt;p&gt;Computers and Thought showcases the work of the scientists who not only defined the field of Artificial Intelligence, but who are responsible for having developed it into what it is today. Originally published in 1963, this collection includes twenty classic papers by such pioneers as A. M. Turing and Marvin Minsky who were behind the pivotal advances in artificially simulating human thought processes with computers. Among the now hard-to-find articles are reports of computer programs that play chess and checkers, prove theorems in logic and geometry, solve problems in calculus, balance assembly lines, recognize visual temporal patterns, and communicate in natural language. The reports of simulation of cognitive processes include computer models of human behavior in logic problems, deciding on common stock portfolios, and carrying out social interaction. Models of verbal learning behavior, predictive behavior in two-choice experiments, and concept formation are also included. Articles by : Paul Armer. Carol Chomsky. Geoffrey P. E. Clarkson. Edward A. Feigenbaum. Julian Feldman. H. Gelernter. Bert F. Green, Jr. John T. Gullahorn. Jeanne E. Gullahorn. J. R. Hansen. Carl I. Hovland. Earl B. Hunt. Kenneth Laughery. Robert K. Lindsay. D. W. Loveland. Marvin Minsky. Ulric Neisser. Allen Newell. A. L. Samuel. Oliver G. Selfridge. J. C. Shaw. Herbert A. Simon. James R. Slagle. Fred M. Tonge. A. M. Turing. Leonard Uhr. Charles Vossler. Alice K. Wolf.&lt;/p&gt;</dc:description>
+        <dc:publisher>AAAI Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">YnlQAAAAMAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780262560924</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>AI</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>programming</dc:subject>
+        <dc:subject>simulation</dc:subject>
+        <dc:subject>cognition</dc:subject>
+        <dc:subject>thought</dc:subject>
+        <dc:subject>natural language</dc:subject>
+        <dc:subject>logic</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward A. Feigenbaum&quot;: &quot;&quot;, &quot;Julian Feldman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-04-02T21:51:16+00:00"/>
+        <meta name="calibre:title_sort" content="Unknown"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
