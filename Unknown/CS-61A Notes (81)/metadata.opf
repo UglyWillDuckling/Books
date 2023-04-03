@@ -5,8 +5,15 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">a35ba992-7e7c-421c-ab44-fec13fba86cc</dc:identifier>
         <dc:title>CS-61A Notes</dc:title>
         <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Welcome to CS 61A, the world’s best computer science course, because we use the world’s best CS book as&lt;/p&gt;
+&lt;p&gt;the textbook. The only thing wrong with this course is that all the rest of the CS courses for the rest of&lt;/p&gt;
+&lt;p&gt;your life will seem a little disappointing (and repetitive).&lt;/p&gt;
+&lt;p&gt;Course overview comes next lecture; now we’re going to jump right in so you can get started exploring on&lt;/p&gt;
+&lt;p&gt;your own in the lab.&lt;/p&gt;
+&lt;p&gt;In 61A we program in Scheme, which is an interactive language. That means that instead of writing a great...&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:language>eng</dc:language>
         <dc:subject>CS</dc:subject>
         <dc:subject>Computer Science</dc:subject>
@@ -14,7 +21,7 @@
         <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-03-05T14:35:42+00:00"/>
         <meta name="calibre:title_sort" content="CS-61A Notes"/>
-        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2023-04-03T11:45:18.662933+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>
