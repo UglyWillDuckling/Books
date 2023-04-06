@@ -84,6 +84,18 @@
   },
   "gui_view_history": [
     [
+      96,
+      "Society of Mind"
+    ],
+    [
+      61,
+      "Practical Vim, Second Edition (for Stefano Alcazi)"
+    ],
+    [
+      91,
+      "The Sciences of the Artificial, Third Edition"
+    ],
+    [
       81,
       "CS-61A Notes"
     ],
@@ -98,10 +110,6 @@
     [
       83,
       "Advances in Programming and Non-Numerical Computation"
-    ],
-    [
-      91,
-      "The Sciences of the Artificial, Third Edition"
     ],
     [
       88,
@@ -134,14 +142,6 @@
     [
       77,
       "Microelectronics - Systems and Devices"
-    ],
-    [
-      78,
-      "Squeak by Example"
-    ],
-    [
-      61,
-      "Practical Vim, Second Edition (for Stefano Alcazi)"
     ]
   ],
   "field_metadata": {
