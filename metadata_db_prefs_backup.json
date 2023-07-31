@@ -84,6 +84,14 @@
   },
   "gui_view_history": [
     [
+      99,
+      "Punished by Rewards"
+    ],
+    [
+      96,
+      "Society of Mind"
+    ],
+    [
       98,
       "Computation: Finite and Infinite Machines"
     ],
@@ -102,10 +110,6 @@
     [
       91,
       "The Sciences of the Artificial, Third Edition"
-    ],
-    [
-      96,
-      "Society of Mind"
     ],
     [
       95,
@@ -138,10 +142,6 @@
     [
       77,
       "Personal Computing"
-    ],
-    [
-      80,
-      "early history of smalltalk"
     ]
   ],
   "field_metadata": {
