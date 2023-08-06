@@ -9,9 +9,12 @@
     "column_positions": {
       "#lastopened": 1,
       "authors": 3,
+      "formats": 14,
+      "id": 13,
       "languages": 12,
       "last_modified": 11,
       "ondevice": 0,
+      "path": 15,
       "pubdate": 6,
       "publisher": 9,
       "rating": 5,
@@ -24,8 +27,11 @@
     "column_sizes": {
       "#lastopened": 100,
       "authors": 106,
+      "formats": 0,
+      "id": 0,
       "languages": 0,
       "last_modified": 0,
+      "path": 0,
       "pubdate": 100,
       "publisher": 98,
       "rating": 75,
@@ -35,14 +41,20 @@
       "timestamp": 89,
       "title": 170
     },
+    "formats_injected": true,
     "hidden_columns": [
+      "id",
       "size",
       "series",
+      "formats",
+      "path",
       "last_modified",
       "languages"
     ],
+    "id_injected": true,
     "languages_injected": true,
     "last_modified_injected": true,
+    "path_injected": true,
     "sort_history": [
       [
         "timestamp",
@@ -54,9 +66,12 @@
     "column_positions": {
       "#lastopened": 12,
       "authors": 2,
+      "formats": 14,
+      "id": 13,
       "languages": 11,
       "last_modified": 10,
       "ondevice": 0,
+      "path": 15,
       "pubdate": 9,
       "publisher": 8,
       "rating": 5,
@@ -69,8 +84,11 @@
     "column_sizes": {
       "#lastopened": 100,
       "authors": 100,
+      "formats": 100,
+      "id": 100,
       "languages": 100,
       "last_modified": 100,
+      "path": 100,
       "pubdate": 100,
       "publisher": 100,
       "rating": 100,
@@ -83,6 +101,26 @@
     "hidden_columns": []
   },
   "gui_view_history": [
+    [
+      100,
+      "Pale Blue Dot: A Vision of the Human Future in Space"
+    ],
+    [
+      105,
+      "The Selfish Gene: 40th Anniversary edition"
+    ],
+    [
+      104,
+      "The Selfish Gene: 30th Anniversary Edition"
+    ],
+    [
+      101,
+      "The Socrates Express: In Search of Life Lessons from Dead Philosophers"
+    ],
+    [
+      100,
+      "Pale Blue Dot"
+    ],
     [
       99,
       "Punished by Rewards"
@@ -122,26 +160,6 @@
     [
       81,
       "CS-61A Notes"
-    ],
-    [
-      84,
-      "A Programming Language"
-    ],
-    [
-      83,
-      "Advances in Programming and Non-Numerical Computation"
-    ],
-    [
-      88,
-      "Object-Oriented Software Construction"
-    ],
-    [
-      92,
-      "An Introduction to Object-Oriented Programming, 3rd Edition"
-    ],
-    [
-      77,
-      "Personal Computing"
     ]
   ],
   "field_metadata": {
@@ -303,7 +321,7 @@
       "is_multiple": {},
       "kind": "field",
       "label": "id",
-      "name": null,
+      "name": "Id",
       "rec_index": 0,
       "search_terms": [
         "id"
@@ -897,5 +915,6 @@
   "virt_libs_order": [
     "",
     "Object Oriented Programming"
-  ]
+  ],
+  "last_expired_trash_at": 1691343438.1678786
 }
