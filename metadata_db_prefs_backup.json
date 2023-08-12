@@ -102,6 +102,10 @@
   },
   "gui_view_history": [
     [
+      107,
+      "Cosmos"
+    ],
+    [
       100,
       "Pale Blue Dot: A Vision of the Human Future in Space"
     ],
@@ -156,10 +160,6 @@
     [
       61,
       "Practical Vim, Second Edition (for Stefano Alcazi)"
-    ],
-    [
-      81,
-      "CS-61A Notes"
     ]
   ],
   "field_metadata": {
