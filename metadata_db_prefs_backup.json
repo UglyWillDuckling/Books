@@ -102,10 +102,6 @@
   },
   "gui_view_history": [
     [
-      107,
-      "Cosmos"
-    ],
-    [
       100,
       "Pale Blue Dot: A Vision of the Human Future in Space"
     ],
@@ -160,6 +156,10 @@
     [
       61,
       "Practical Vim, Second Edition (for Stefano Alcazi)"
+    ],
+    [
+      81,
+      "CS-61A Notes"
     ]
   ],
   "field_metadata": {
@@ -735,8 +735,7 @@
     30
   ],
   "virtual_libraries": {
-    "Object Oriented Programming": "tags:\"=oop\"",
-    "temp": "test"
+    "Object Oriented Programming": "tags:\"=oop\""
   },
   "book_display_fields": [
     [
@@ -909,12 +908,12 @@
   "cover_grid_icon_rules": [],
   "update_all_last_mod_dates_on_start": false,
   "virt_libs_hidden": [
-    "temp"
+    "Object Oriented Programming"
   ],
   "grouped_search_make_user_categories": [],
   "virt_libs_order": [
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1691853213.039247
+  "last_expired_trash_at": 1691486011.0255413
 }
