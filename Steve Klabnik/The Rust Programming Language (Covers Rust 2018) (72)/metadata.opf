@@ -6,7 +6,7 @@
         <dc:title>The Rust Programming Language (Covers Rust 2018)</dc:title>
         <dc:creator opf:file-as="Klabnik, Steve &amp; Nichols, Carol" opf:role="aut">Steve Klabnik</dc:creator>
         <dc:creator opf:file-as="Klabnik, Steve &amp; Nichols, Carol" opf:role="aut">Carol Nichols</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-08-11T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The official book on the Rust programming language, written by the Rust development team at the Mozilla Foundation, fully updated for Rust 2018.The Rust Programming Language is the official book on Rust: an open source systems programming language that helps you write faster, more reliable software. Rust offers control over low-level details (such as memory usage) in combination with high-level ergonomics, eliminating the hassle traditionally associated with low-level languages. &lt;/p&gt;
@@ -21,7 +21,6 @@
         <dc:subject>Open Source</dc:subject>
         <dc:subject>Languages</dc:subject>
         <dc:subject>General</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Steve Klabnik&quot;: &quot;&quot;, &quot;Carol Nichols&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2023-01-30T22:06:40+00:00"/>
         <meta name="calibre:title_sort" content="Rust Programming Language (Covers Rust 2018), The"/>
         <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>

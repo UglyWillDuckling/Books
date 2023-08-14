@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">0cb77941-6456-45af-bf4f-72da97ffab15</dc:identifier>
         <dc:title>An Introduction to Object-Oriented Programming, 3rd Edition</dc:title>
         <dc:creator opf:file-as="Timothy A. Budd" opf:role="aut">Timothy A. Budd</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2001-10-11T22:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;In An Introduction to Object-Oriented Programming, Timothy Budd provides a language-independent presentation of object-oriented principles, such as objects, methods, inheritance (including multiple inheritance) and polymorphism. Examples are drawn from several different languages, including (among others) C++, C#, Java, CLOS, Delphi, Eiffel, Objective-C and Smalltalk. By examining many languages, the reader is better able to appreciate the general &lt;strong style="text-decoration: underline"&gt;principles&lt;/strong&gt; that lie beyond the syntax of the individual languages. &lt;strong&gt;KEY TOPICS:&lt;/strong&gt; This new edition presents examples drawn from a wider range of languages, including Eiffel, CLOS, and Python in addition to the mainstream languages, as well as extensive comparisons between C++, C# and Java. Case studies explore the application of polymorphism in the STL in C++ and the AWT in Java. UML notation and diagrams are integrated and utilized throughout. The book also features advanced sections on design patterns, reflection and introspection, network programming, and the implementation of object-oriented languages. &lt;strong&gt;MARKET:&lt;/strong&gt; This book is appropriate for programmers looking to read about the theory behind and functionality of a variety of object-oriented programming languages. It is also useful as a reference.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -15,7 +15,6 @@
         <dc:subject>oop</dc:subject>
         <dc:subject>messages</dc:subject>
         <dc:subject>objects</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Timothy A. Budd&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="6"/>
         <meta name="calibre:timestamp" content="2023-02-28T20:11:28+00:00"/>
         <meta name="calibre:title_sort" content="Introduction to Object-Oriented Programming, 3rd Edition, An"/>

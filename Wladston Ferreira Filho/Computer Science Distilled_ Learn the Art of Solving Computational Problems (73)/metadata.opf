@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">4c076df4-8d9d-4547-beff-2a9af9d70c6b</dc:identifier>
         <dc:title>Computer Science Distilled: Learn the Art of Solving Computational Problems</dc:title>
         <dc:creator opf:file-as="Filho, Wladston Ferreira" opf:role="aut">Wladston Ferreira Filho</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-01-16T23:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A walkthrough of computer science concepts you must know. Designed for readers who don't care for academic formalities, it's a fast and easy computer science guide. It teaches the foundations you need to program computers effectively. After a simple introduction to discrete math, it presents common algorithms and data structures. It also outlines the principles that make computers and programming languages work.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -17,7 +17,6 @@
         <dc:subject>Computer Science</dc:subject>
         <dc:subject>programming</dc:subject>
         <dc:subject>Algorithms</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Wladston Ferreira Filho&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-02-08T10:10:55+00:00"/>
         <meta name="calibre:title_sort" content="Computer Science Distilled: Learn the Art of Solving Computational Problems"/>

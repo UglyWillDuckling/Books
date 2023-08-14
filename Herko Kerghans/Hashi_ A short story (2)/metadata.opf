@@ -5,11 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">8c28f37d-cee1-4fce-b2e3-3a7f9a6f143e</dc:identifier>
         <dc:title>Hashi: A short story</dc:title>
         <dc:creator opf:file-as="Kerghans, Herko" opf:role="aut">Herko Kerghans</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-05-14T22:00:00+00:00</dc:date>
         <dc:identifier opf:scheme="MOBI-ASIN">B07RY5B7JH</dc:identifier>
         <dc:language>eng</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Herko Kerghans&quot;: &quot;&quot;}"/>
         <meta name="calibre:timestamp" content="2022-08-31T19:44:55+00:00"/>
         <meta name="calibre:title_sort" content="Hashi: A short story"/>
         <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
