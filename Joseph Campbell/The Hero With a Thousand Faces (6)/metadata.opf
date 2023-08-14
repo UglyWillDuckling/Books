@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6561ce8f-001a-4078-9667-23663e74483a</dc:identifier>
+        <dc:title>The Hero With a Thousand Faces</dc:title>
+        <dc:creator opf:file-as="Campbell, Joseph" opf:role="aut">Joseph Campbell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-28T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Since its release in 1949, &lt;em&gt;The Hero with a Thousand Faces&lt;/em&gt; has influenced millions of readers by combining the insights of modern psychology with Joseph Campbell’s revolutionary understanding of comparative mythology. In these pages, Campbell outlines the Hero’s Journey, a universal motif of adventure and transformation that runs through virtually all of the world’s mythic traditions. He also explores the Cosmogonic Cycle, the mythic pattern of world creation and destruction.  &lt;/p&gt;
+&lt;p&gt;As part of the Joseph Campbell Foundation’s Collected Works of Joseph Campbell, this third edition features expanded illustrations, a comprehensive bibliography, and more accessible sidebars.  &lt;/p&gt;
+&lt;p&gt;As relevant today as when it was first published, &lt;em&gt;The Hero with a Thousand Faces&lt;/em&gt; continues to find new audiences in fields ranging from religion and anthropology to literature and film studies. The book has also profoundly influenced creative artists—including authors, songwriters, game designers, and filmmakers—and continues to inspire all those interested in the inherent human need to tell stories.&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;“I have returned to no other book more often since leaving college than this one, and every time I discover new insight into the human journey. Every generation will find in &lt;em&gt;Hero&lt;/em&gt; wisdom for the ages.”&lt;br /&gt;
+— Bill Moyers  &lt;/p&gt;
+&lt;p&gt;“In the three decades since I discovered &lt;em&gt;The Hero with a Thousand Faces&lt;/em&gt; , it has continued to fascinate and inspire me. Joseph Campbell peers through centuries and shows us that we are all connected by a basic need to hear stories and understand ourselves. As a book, it is wonderful to read; as illumination into the human condition, it is a revelation.”&lt;br /&gt;
+— George Lucas  &lt;/p&gt;
+&lt;p&gt;“Campbell’s words carry extraordinary weight, not only among scholars but among a wide range of other people who find his search down mythological pathways relevant to their lives today....The book for which he is most famous, &lt;em&gt;The Hero with a Thousand Faces&lt;/em&gt; [is] a brilliant examination, through ancient hero myths, of man’s eternal struggle for identity.”&lt;br /&gt;
+— &lt;em&gt;Time&lt;/em&gt;  &lt;/p&gt;
+&lt;p&gt;“In the long run, the most influential book of the twentieth century may turn out to be Joseph Campbell’s &lt;em&gt;The Hero with a Thousand Faces&lt;/em&gt;.”&lt;br /&gt;
+— Christopher Vogler&lt;/p&gt;</dc:description>
+        <dc:publisher>New World Library</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1577315936</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781577315933</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>mythology</dc:subject>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-09-02T21:49:22+00:00"/>
+        <meta name="calibre:title_sort" content="Hero With a Thousand Faces, The"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
