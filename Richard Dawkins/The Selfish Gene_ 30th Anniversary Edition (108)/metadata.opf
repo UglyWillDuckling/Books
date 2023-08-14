@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5127b629-0e79-41d4-9842-c8939567003e</dc:identifier>
+        <dc:title>The Selfish Gene: 30th Anniversary Edition</dc:title>
+        <dc:creator opf:file-as="Dawkins, Richard" opf:role="aut">Richard Dawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-15T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;The million copy international bestseller, critically acclaimed and translated into over 25 languages. &lt;/p&gt;
+&lt;p class="description"&gt;This 30th anniversary edition includes a new introduction from the author as well as the original prefaces and foreword, and extracts from early reviews. As relevant and influential today as when it was first published, The Selfish Gene has become a classic exposition of evolutionary thought. &lt;/p&gt;
+&lt;p class="description"&gt;Professor Dawkins articulates a gene's eye view of evolution - a view giving centre stage to these persistent units of information, and in which organisms can be seen as vehicles for their replication. This imaginative, powerful, and stylistically brilliant work not only brought the insights of Neo-Darwinism to a wide audience, but galvanized the biology community, generating much debate and stimulating whole new areas of research.&lt;/p&gt;
+&lt;p class="description"&gt;### Review&lt;/p&gt;
+&lt;p class="description"&gt;"Dawkins first book, *The Selfish Gene*, was a smash hit...Best of all, Dawkins laid out this biology-some of it truly subtle-in stunningly lucid prose. (It is, in my view, the best work of popular science ever written.)"--*New York Review of Books*&lt;/p&gt;
+&lt;p class="description"&gt;"This important book could hardly be more exciting."--*The Economist*&lt;/p&gt;
+&lt;p class="description"&gt;"The sort of popular science writing that makes the reader feel like a genius."--*New York Times*&lt;/p&gt;
+&lt;p class="description"&gt;"Who should read this book? Everyone interested in the universe and their place in it."--Jeffrey R. Baylis, *Animal Behaviour*&lt;/p&gt;
+&lt;p class="description"&gt;"This book should be read, can be read, by almost everyone. It describes with great skill a new face of the theory of evolution."--W. D. Hamilton, *Science*&lt;/p&gt;
+&lt;p class="description"&gt;"The presentations are remarkable for their clarity and simplicity, intelligible to any schoolchild, yet so little condescending as to be a pleasure to the professional."--*American Scientist*&lt;/p&gt;
+&lt;p class="description"&gt;### Review&lt;/p&gt;
+&lt;p class="description"&gt;"Dawkins first book, *The Selfish Gene*, was a smash hit...Best of all, Dawkins laid out this biology-some of it truly subtle-in stunningly lucid prose. (It is, in my view, the best work of popular science ever written.)"--*New York Review of Books*&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>OUP Oxford</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B000SEHIG2</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">koaD_Aod_V0C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780191574061</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Science &amp; Math</dc:subject>
+        <dc:subject>Evolution</dc:subject>
+        <dc:subject>Genetics</dc:subject>
+        <dc:subject>Professional &amp; Technical</dc:subject>
+        <dc:subject>Professional Science</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-08-14T16:12:58.650483+00:00"/>
+        <meta name="calibre:title_sort" content="Selfish Gene: 30th Anniversary Edition, The"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2023-08-14T16:13:11.712695+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
