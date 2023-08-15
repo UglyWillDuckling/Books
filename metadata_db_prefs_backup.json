@@ -102,16 +102,28 @@
   },
   "gui_view_history": [
     [
+      111,
+      "\"Surely You're Joking, Mr. Feynman!\""
+    ],
+    [
+      110,
+      "The Selfish Gene: 40th Anniversary edition (Oxford Landmark Science)(elib.cc)"
+    ],
+    [
+      109,
+      "The Selfish Gene: 30th Anniversary Edition"
+    ],
+    [
+      107,
+      "Cosmos"
+    ],
+    [
       100,
       "Pale Blue Dot: A Vision of the Human Future in Space"
     ],
     [
       105,
       "The Selfish Gene: 40th Anniversary edition"
-    ],
-    [
-      104,
-      "The Selfish Gene: 30th Anniversary Edition"
     ],
     [
       101,
@@ -148,18 +160,6 @@
     [
       91,
       "The Sciences of the Artificial, Third Edition"
-    ],
-    [
-      95,
-      "Computers and Thought"
-    ],
-    [
-      61,
-      "Practical Vim, Second Edition (for Stefano Alcazi)"
-    ],
-    [
-      81,
-      "CS-61A Notes"
     ]
   ],
   "field_metadata": {
@@ -915,5 +915,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1691486011.0255413
+  "last_expired_trash_at": 1692029282.9191961
 }
