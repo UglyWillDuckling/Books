@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">113</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77e26306-788b-47f3-a72a-3ca177ab4bd1</dc:identifier>
+        <dc:title>The Character of Physical Law</dc:title>
+        <dc:creator opf:file-as="Feynman, Richard P" opf:role="aut">Richard P Feynman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-06T16:42:15.541001+00:00</dc:date>
+        <dc:description>&lt;p&gt;A series of classic lectures, delivered in 1960 and recorded for the BBC. This is Feynman's unique take on the problems and puzzles that lie at the heart of physical theory - with Newton's Law of Gravitation; on whether time can ever go backwards; on maths as the supreme language of nature. Demonstrates Feynman's knack of finding the right everyday illustration to bring out the essence of a complicated principle - eg brilliant analogy between the law of conservation energy and the problem of drying yourself with wet towels. 'Feynman's style inspired a generation of scientists. This volume remains the best record I know of his exhilarating vision' - Paul Davies&lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin Books Limited</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141956114</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">zMwTcCz4d18C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Physics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2023-09-14T16:13:14.889014+00:00"/>
+        <meta name="calibre:title_sort" content="Character of Physical Law, The"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2023-09-14T16:13:16.277452+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;local&quot;, &quot;user&quot;: &quot;viewer&quot;, &quot;annotation&quot;: {&quot;end_cfi&quot;: &quot;/2/4/68[cha0000199]/1:594&quot;, &quot;highlighted_text&quot;: &quot;tried to make it possible for people to read his papers.&quot;, &quot;spine_index&quot;: 7, &quot;spine_name&quot;: &quot;CharacterofPhysicalLaw/xhtml/chapter002.html&quot;, &quot;start_cfi&quot;: &quot;/2/4/68[cha0000199]/1:538&quot;, &quot;style&quot;: {&quot;dark&quot;: &quot;#cccc00&quot;, &quot;friendly_name&quot;: &quot;yellow&quot;, &quot;kind&quot;: &quot;color&quot;, &quot;light&quot;: &quot;#ffff00&quot;, &quot;type&quot;: &quot;custom&quot;}, &quot;timestamp&quot;: &quot;2023-09-14T16:24:53.024Z&quot;, &quot;toc_family_titles&quot;: [&quot;The Character Of Physical Law&quot;, &quot;2 The Relation of Mathematics to Physics&quot;], &quot;type&quot;: &quot;highlight&quot;, &quot;uuid&quot;: &quot;EJRPe2KqysxH6E-LvH3Nng&quot;}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
