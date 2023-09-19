@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">114</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">029da6ee-3271-4f17-a71d-4bba69a7740b</dc:identifier>
+        <dc:title>Feynman's Lost Lecture: The Motion of Planets Around the Sun</dc:title>
+        <dc:creator opf:file-as="Goodstein, David L. &amp; Feynman, Richard Phillips &amp; Goodstein, Judith R." opf:role="aut">David L. Goodstein</dc:creator>
+        <dc:creator opf:file-as="Goodstein, David L. &amp; Feynman, Richard Phillips &amp; Goodstein, Judith R." opf:role="aut">Richard Phillips Feynman</dc:creator>
+        <dc:creator opf:file-as="Goodstein, David L. &amp; Feynman, Richard Phillips &amp; Goodstein, Judith R." opf:role="aut">Judith R. Goodstein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-02-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;On 14 March 1964 Richard Feynman, one of the greatest scientific thinkers of the 20th Century, delivered a lecture entitled 'The Motion of the Planets Around the Sun'. For thirty years this remarkable lecture was believed to be lost. But now Feynman's work has been reconstructed and explained in meticulous, accessible detail, together with a history of ideas of the planets' motions. The result is a vital and absorbing account of one of the fundamental puzzles of science, and an invaluable insight into Feynman's charismatic brilliance.&lt;/p&gt;</dc:description>
+        <dc:publisher>Vintage</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00MPMWQ5S</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">St9LyUv-To4C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780099736219</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2023-09-14T17:22:31+00:00"/>
+        <meta name="calibre:title_sort" content="Feynman's Lost Lecture: The Motion of Planets Around the Sun"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2023-09-14T17:22:35+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

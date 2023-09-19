@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">112</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e429b8c-befd-4889-98ae-adca5da6656e</dc:identifier>
+        <dc:title>The Character of Physical Law</dc:title>
+        <dc:creator opf:file-as="Feynman, Richard P" opf:role="aut">Richard P Feynman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-09-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;A series of classic lectures, delivered in 1960 and recorded for the BBC. This is Feynman's unique take on the problems and puzzles that lie at the heart of physical theory - with Newton's Law of Gravitation; on whether time can ever go backwards; on maths as the supreme language of nature. Demonstrates Feynman's knack of finding the right everyday illustration to bring out the essence of a complicated principle - eg brilliant analogy between the law of conservation energy and the problem of drying yourself with wet towels. 'Feynman's style inspired a generation of scientists. This volume remains the best record I know of his exhilarating vision' - Paul Davies</dc:description>
+        <dc:publisher>Penguin Books Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141956114</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-09-14T15:27:55.615029+00:00"/>
+        <meta name="calibre:title_sort" content="Character of Physical Law, The"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2023-09-14T15:28:28.998335+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
