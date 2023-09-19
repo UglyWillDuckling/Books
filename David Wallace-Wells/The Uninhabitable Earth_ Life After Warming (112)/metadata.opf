@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">112</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8114f950-466e-4bee-86f5-73f14c54715f</dc:identifier>
+        <dc:title>The Uninhabitable Earth: Life After Warming</dc:title>
+        <dc:creator opf:file-as="Wallace-Wells, David" opf:role="aut">David Wallace-Wells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-19T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;It is worse, much worse, than you think. If your anxiety about global warming is dominated by fears of sea-level rise, you are barely scratching the surface of what terrors are possible. In California, wildfires now rage year-round, destroying thousands of homes. Across the US, "500-year" storms pummel communities month after month, and floods displace tens of millions annually.  &lt;/p&gt;
+&lt;p&gt;This is only a preview of the changes to come. And they are coming fast. Without a revolution in how billions of humans conduct their lives, parts of the Earth could become close to uninhabitable, and other parts horrifically inhospitable, as soon as the end of this century.  &lt;/p&gt;
+&lt;p&gt;In his travelogue of our near future, David Wallace-Wells brings into stark relief the climate troubles that await--food shortages, refugee emergencies, and other crises that will reshape the globe. But the world will be remade by warming in more profound ways as well, transforming our politics, our culture, our relationship to technology, and our sense of history. It will be all-encompassing, shaping and distorting nearly every aspect of human life as it is lived today.  &lt;/p&gt;
+&lt;p&gt;Like &lt;em&gt;An Inconvenient Truth&lt;/em&gt; and &lt;em&gt;Silent Spring&lt;/em&gt; before it, &lt;em&gt;The Uninhabitable Earth&lt;/em&gt; is both a meditation on the devastation we have brought upon ourselves and an impassioned call to action. For just as the world was brought to the brink of catastrophe within the span of a lifetime, the responsibility to avoid it now belongs to a single generation.&lt;/p&gt;</dc:description>
+        <dc:publisher>Tim Duggan Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780525576709</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">41552709</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <dc:subject>History</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-08-22T20:20:47.362404+00:00"/>
+        <meta name="calibre:title_sort" content="Uninhabitable Earth: Life After Warming, The"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

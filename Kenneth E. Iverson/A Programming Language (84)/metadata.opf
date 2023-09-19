@@ -5,23 +5,24 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">f8244bf3-88a9-4e4f-b8e8-a1ac98ae7d21</dc:identifier>
         <dc:title>A Programming Language</dc:title>
         <dc:creator opf:file-as="Iverson, Kenneth E." opf:role="aut">Kenneth E. Iverson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>1962-01-02T00:00:00+00:00</dc:date>
-        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">0471430145</dc:identifier>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1962-08-15T19:08:59.822252+00:00</dc:date>
+        <dc:description>&lt;p&gt;Explores how programming language is a signifier for a whole host of mathematical algorithms and procedures. The book focuses on specific areas of application which serve as universal examples and are chosen to illustrate particular facets of the effort to design explicit and concise programming languages.&lt;/p&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9780471430148</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0471430145</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">zR81AAAAIAAJ</dc:identifier>
         <dc:language>eng</dc:language>
+        <dc:subject>time-sharing</dc:subject>
+        <dc:subject>Timesharing</dc:subject>
         <dc:subject>APL</dc:subject>
         <dc:subject>Computer Languages</dc:subject>
-        <dc:subject>time-sharing</dc:subject>
-        <dc:subject>mainframe</dc:subject>
-        <dc:subject>Timesharing</dc:subject>
         <dc:subject>IBM</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Kenneth E. Iverson&quot;: &quot;&quot;}"/>
+        <dc:subject>mainframe</dc:subject>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2023-03-05T17:01:43+00:00"/>
         <meta name="calibre:title_sort" content="Programming Language, A"/>
-        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2023-04-03T11:39:47.721345+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2023-04-03T11:39:47+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

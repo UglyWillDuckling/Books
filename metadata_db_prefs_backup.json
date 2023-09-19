@@ -102,12 +102,12 @@
   },
   "gui_view_history": [
     [
-      114,
-      "Feynman's Lost Lecture: The Motion of Planets Around the Sun"
+      107,
+      "Cosmos"
     ],
     [
       113,
-      "The Character of Physical Law"
+      "Shadows of Forgotten Ancestors"
     ],
     [
       111,
@@ -120,10 +120,6 @@
     [
       109,
       "The Selfish Gene: 30th Anniversary Edition"
-    ],
-    [
-      107,
-      "Cosmos"
     ],
     [
       100,
@@ -160,6 +156,10 @@
     [
       98,
       "output"
+    ],
+    [
+      97,
+      "Computation Finite and Infinite Machines"
     ]
   ],
   "field_metadata": {
@@ -915,5 +915,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1695124383.0922537
+  "last_expired_trash_at": 1695138485.5912015
 }
