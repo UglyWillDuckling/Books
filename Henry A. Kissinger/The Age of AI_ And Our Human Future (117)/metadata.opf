@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">117</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">917d09a2-6b12-4f2e-a5e4-d323d4df90aa</dc:identifier>
+        <dc:title>The Age of AI: And Our Human Future</dc:title>
+        <dc:creator opf:file-as="Kissinger, Henry A. &amp; Schmidt, Eric &amp; Huttenlocher, Daniel" opf:role="aut">Henry A. Kissinger</dc:creator>
+        <dc:creator opf:file-as="Kissinger, Henry A. &amp; Schmidt, Eric &amp; Huttenlocher, Daniel" opf:role="aut">Eric Schmidt</dc:creator>
+        <dc:creator opf:file-as="Kissinger, Henry A. &amp; Schmidt, Eric &amp; Huttenlocher, Daniel" opf:role="aut">Daniel Huttenlocher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Three of the world’s most accomplished and deep thinkers come together to explore Artificial Intelligence (AI) and the way it is transforming human society—and what this technology means for us all.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Generative AI is filling the internet with false information. Artists, writers, and many other professionals are in fear of their jobs. AI is discovering new medicines, running military drones, and transforming the world around us—yet we do not understand the decisions it makes, and we don’t know how to control them.  &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;The Age of AI&lt;/em&gt; , three leading thinkers have come together to consider how AI will change our relationships with knowledge, politics, and the societies in which we live. &lt;em&gt;The Age of AI&lt;/em&gt; is an essential roadmap to our present and our future, an era unlike any that has come before. &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"Absolutely masterful."―Fareed Zakaria, CNN/GPS  &lt;/p&gt;
+&lt;p&gt;" A salutary warning to handle this technology with care and build institutions to control it...With his co-authors Mr Kissinger has...used his vast experience and versatile mind to make a muscular contribution to one of the 21st century’s most pressing debates."―The Economist  &lt;/p&gt;
+&lt;p&gt;"Good reading for those seeking to navigate the alt-reality world."―Kirkus Reviews&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Henry A. Kissinger&lt;/strong&gt; served as the 56th Secretary of State from September 1973 until January 1977. He also served as the Assistant to the President for National Security Affairs from January 1969 until November 1975. He received the Nobel Peace Prize in 1973, the Presidential Medal of Freedom in 1977, and the Medal of Liberty in 1986. Presently, he is Chairman of Kissinger Associates, Inc., an international consulting firm.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Eric Schmidt&lt;/strong&gt; is an accomplished technologist, entrepreneur and philanthropist. As Google’s Chief Executive Officer, he pioneered Google’s transformation from a Silicon Valley startup to a global leader in technology. He served as Google’s Chief Executive Officer and Chairman from 2001-2011, Executive Chairman from 2011-2018 and most recently as Technical Advisor from 2018-2020. Under his leadership Google dramatically scaled its infrastructure and diversified its product offerings while maintaining a strong culture of innovation. Prior to his career at Google, Eric held leadership roles at Novell and Sun Microsystems, Inc.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Daniel Huttenlocher&lt;/strong&gt; is the inaugural dean of the MIT Schwarzman College of Computing. Previously he served as founding Dean and Vice Provost of Cornell Tech, the digital technology oriented graduate school created by Cornell University in New York City. He has a mix of academic and industry experience, as a Computer Science faculty member at Cornell and MIT, researcher and manager at the Xerox Palo Alto Research Center (PARC), and CTO of a fintech startup. He currently serves as chair of the John D. and Catherine T. MacArthur Foundation board and as a member of the Corning Inc. and Amazon.com boards.&lt;/p&gt;</dc:description>
+        <dc:publisher>Little Brown</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">WAb4zgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316273992</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0316273996</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Artificial Intelligence</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Science &amp; Technology Policy</dc:subject>
+        <dc:subject>Technology Studies</dc:subject>
+        <dc:subject>Public Policy</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-09-24T13:50:20.600849+00:00"/>
+        <meta name="calibre:title_sort" content="Age of AI: And Our Human Future, The"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
