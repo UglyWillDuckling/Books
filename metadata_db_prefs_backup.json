@@ -102,12 +102,12 @@
   },
   "gui_view_history": [
     [
-      107,
-      "Cosmos"
-    ],
-    [
       115,
       "Feynman's Lost Lecture: The Motion of Planets Around the Sun"
+    ],
+    [
+      107,
+      "Cosmos"
     ],
     [
       118,
@@ -915,5 +915,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1695678096.012611
+  "last_expired_trash_at": 1695854030.8325207
 }
