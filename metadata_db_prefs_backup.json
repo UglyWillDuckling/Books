@@ -102,6 +102,10 @@
   },
   "gui_view_history": [
     [
+      119,
+      "Real World Haskell"
+    ],
+    [
       115,
       "Feynman's Lost Lecture: The Motion of Planets Around the Sun"
     ],
@@ -156,10 +160,6 @@
     [
       98,
       "Computation: Finite and Infinite Machines"
-    ],
-    [
-      98,
-      "Finite and Infinite Machines"
     ]
   ],
   "field_metadata": {
@@ -915,5 +915,9 @@
     "",
     "Object Oriented Programming"
   ],
+<<<<<<< Updated upstream
   "last_expired_trash_at": 1696885738.9997616
+=======
+  "last_expired_trash_at": 1696340943.4989893
+>>>>>>> Stashed changes
 }

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">119</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9cdd3c25-396b-46ff-9e44-691502018976</dc:identifier>
+        <dc:title>Real World Haskell</dc:title>
+        <dc:creator opf:file-as="O'Sullivan, Bryan" opf:role="aut">Bryan O'Sullivan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;This easy-to-use, fast-moving tutorial introduces you to functional programming with Haskell. You'll learn how to use Haskell in a variety of practical ways, from short scripts to large and demanding applications. &lt;em&gt;Real World Haskell&lt;/em&gt; takes you through the basics of functional programming at a brisk pace, and then helps you increase your understanding of Haskell in real-world issues like I/O, performance, dealing with data, concurrency, and more as you move through each chapter. With this book, you will:   &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Understand the differences between procedural and functional programming   &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Learn the features of Haskell, and how to use it to develop useful programs   &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Interact with filesystems, databases, and network services   &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Write solid code with automated tests, code coverage, and error handling   &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Harness the power of multicore systems via concurrent and parallel programming &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You'll find plenty of hands-on exercises, along with examples of real Haskell programs that you can modify, compile, and run. Whether or not you've used a functional language before, if you want to understand why Haskell is coming into its own as a practical language in so many major organizations, &lt;em&gt;Real World Haskell&lt;/em&gt; is the best place to start.&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Bryan O'Sullivan is an Irish hacker and writer who likes distributed systems, open source software, and programming languages. He was a member of the initial design team for the Jini network service architecture (subsequently open sourced as Apache River). He has made significant contributions to, and written a book about, the popular Mercurial revision control system. He lives in San Francisco with his wife and sons. Whenever he can, he runs off to climb rocks.  &lt;/p&gt;
+&lt;p&gt;John Goerzen is an American hacker and author. He has written a number of real-world Haskell libraries and applications, including the HDBC database interface, the ConfigFile configuration file interface, a podcast downloader, and various other libraries relating to networks, parsing, logging, and POSIX code. John has been a developer for the Debian GNU/Linux operating system project for over 10 years and maintains numerous Haskell libraries and code for Debian. He also served as President of Software in the Public Interest, Inc., the legal parent organization of Debian. John lives in rural Kansas with his wife and son, where he enjoys photography and geocaching.  &lt;/p&gt;
+&lt;p&gt;Don Stewart is an Australian hacker based in Portland, Oregon. Don has been involved in a diverse range of Haskell projects, including practical libraries, such as Data.ByteString and Data.Binary, as well as applying the Haskell philosophy to real-world applications including compilers, linkers, text editors, network servers, and systems software. His recent work has focused on optimizing Haskell for high-performance scenarios, using techniques from term rewriting.&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">AsR5swEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780596514983</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0596514980</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-10-03T13:49:04.982431+00:00"/>
+        <meta name="calibre:title_sort" content="Real World Haskell"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2023-10-03T13:49:28.691240+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
