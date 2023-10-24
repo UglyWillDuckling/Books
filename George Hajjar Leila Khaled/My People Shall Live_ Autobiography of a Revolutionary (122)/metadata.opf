@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">122</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05626a5d-2f64-428e-be92-a43011f562d8</dc:identifier>
+        <dc:title>My People Shall Live: Autobiography of a Revolutionary</dc:title>
+        <dc:creator opf:file-as="Leila Khaled, George Hajjar" opf:role="aut">George Hajjar Leila Khaled</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1975-01-14T21:00:00+00:00</dc:date>
+        <dc:publisher>NC Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780919600300</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">3fb954d2-1c5e-49de-b449-d23f085caeff</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-10-24T07:10:03.663881+00:00"/>
+        <meta name="calibre:title_sort" content="My People Shall Live: Autobiography of a Revolutionary"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
