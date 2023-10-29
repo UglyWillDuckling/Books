@@ -102,6 +102,10 @@
   },
   "gui_view_history": [
     [
+      122,
+      "My People Shall Live: Autobiography of a Revolutionary"
+    ],
+    [
       119,
       "The Computer and the Brain"
     ],
@@ -156,10 +160,6 @@
     [
       96,
       "Society of Mind"
-    ],
-    [
-      98,
-      "Computation: Finite and Infinite Machines"
     ]
   ],
   "field_metadata": {
@@ -915,5 +915,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1698131373.6106167
+  "last_expired_trash_at": 1698527316.33032
 }
