@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">127</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2129f3ea-e233-48b6-b9c7-c408b500aac7</dc:identifier>
+        <dc:title>Learning UML 2.0</dc:title>
+        <dc:creator opf:file-as="Russ Miles" opf:role="aut">Russ Miles</dc:creator>
+        <dc:creator opf:file-as="Russ Miles" opf:role="aut">Kim Hamilton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-16T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Engaging and accessible, this book shows you how to use UML to craft and communicate your project's design. Russ Miles and Kim Hamilton have written a pragmatic introduction to UML based on hard-earned practice, not theory. Regardless of the software process or methodology you use, this book is the one source you need to get up and running with UML 2.0.&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780596159450</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>COMPUTERS / Software Development &amp; Engineering / General</dc:subject>
+        <meta name="calibre:timestamp" content="2023-11-06T20:53:03+00:00"/>
+        <meta name="calibre:title_sort" content="Learning UML 2.0"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2023-11-06T20:53:19+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

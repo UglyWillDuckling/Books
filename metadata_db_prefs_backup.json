@@ -102,6 +102,14 @@
   },
   "gui_view_history": [
     [
+      127,
+      "Learning UML 2.0"
+    ],
+    [
+      126,
+      "Seidl M Scholz M Huemer C Kappel G Uml Classroom An Introduction To Objectoriented Modeling"
+    ],
+    [
       122,
       "My People Shall Live: Autobiography of a Revolutionary"
     ],
@@ -152,14 +160,6 @@
     [
       100,
       "Pale Blue Dot"
-    ],
-    [
-      99,
-      "Punished by Rewards"
-    ],
-    [
-      96,
-      "Society of Mind"
     ]
   ],
   "field_metadata": {
@@ -915,5 +915,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1698689213.3164651
+  "last_expired_trash_at": 1699303983.1392734
 }
