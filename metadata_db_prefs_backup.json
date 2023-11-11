@@ -102,6 +102,18 @@
   },
   "gui_view_history": [
     [
+      132,
+      "Eloquent JavaScript"
+    ],
+    [
+      131,
+      "Marijn Haverbeke Eloquent Javascript A Modern Introduction To Programming No Starch Press 2018"
+    ],
+    [
+      128,
+      "JavaScript with Promises"
+    ],
+    [
       127,
       "Learning UML 2.0"
     ],
@@ -148,18 +160,6 @@
     [
       100,
       "Pale Blue Dot: A Vision of the Human Future in Space"
-    ],
-    [
-      105,
-      "The Selfish Gene: 40th Anniversary edition"
-    ],
-    [
-      101,
-      "The Socrates Express: In Search of Life Lessons from Dead Philosophers"
-    ],
-    [
-      100,
-      "Pale Blue Dot"
     ]
   ],
   "field_metadata": {
@@ -915,5 +915,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1699303983.1392734
+  "last_expired_trash_at": 1699742052.564643
 }
