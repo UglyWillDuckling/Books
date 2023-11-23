@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0de593d-d847-4c24-b07a-5d53a46b1c56</dc:identifier>
+        <dc:title>The Left Hand of Darkness</dc:title>
+        <dc:creator opf:file-as="Guin, Ursula K. le" opf:role="aut">Ursula K. le Guin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1975-01-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Winter is an Earth-like planet with two major differences: conditions are semi artic even at the warmest time of the year, and the inhabitants are all of the same sex. Tucked away in a remote corner of the universe, they have no knowledge of space travel or of life beyond their own world. And when a strange envoy from space brings news of a vast coalition of planets which they are invited to join, he is met with fear, mistrust and disbelief . . .'The Left Hand of Darkness' is a groundbreaking work of feminist science fiction, an imaginative masterpiece which poses challenging questions about sexuality, sexism and the organisation of society.&lt;/p&gt;</dc:description>
+        <dc:publisher>Ace Books</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">2bNl0ZF25LgC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780441478040</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0441478042</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Science Fiction/Fantasy</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-11-12T19:51:46.958345+00:00"/>
+        <meta name="calibre:title_sort" content="Left Hand of Darkness, The"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
