@@ -102,6 +102,10 @@
   },
   "gui_view_history": [
     [
+      73,
+      "Computer Science Distilled: Learn the Art of Solving Computational Problems"
+    ],
+    [
       127,
       "Learning UML 2.0"
     ],
@@ -156,10 +160,6 @@
     [
       110,
       "The Selfish Gene: 40th Anniversary edition (Oxford Landmark Science)(elib.cc)"
-    ],
-    [
-      109,
-      "The Selfish Gene: 30th Anniversary Edition"
     ]
   ],
   "field_metadata": {
@@ -915,5 +915,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1700859541.921624
+  "last_expired_trash_at": 1701344820.7714298
 }
