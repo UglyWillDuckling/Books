@@ -5,6 +5,43 @@
   "grouped_search_terms": {},
   "tag_browser_hidden_categories": [],
   "library_view books view state": {
+    "column_alignment": {},
+    "column_positions": {
+      "#lastopened": 1,
+      "authors": 3,
+      "formats": 14,
+      "id": 13,
+      "languages": 12,
+      "last_modified": 11,
+      "ondevice": 0,
+      "path": 15,
+      "pubdate": 6,
+      "publisher": 9,
+      "rating": 5,
+      "series": 10,
+      "size": 8,
+      "tags": 7,
+      "timestamp": 4,
+      "title": 2
+    },
+    "column_sizes": {
+      "#lastopened": 100,
+      "authors": 106,
+      "formats": 0,
+      "id": 0,
+      "languages": 0,
+      "last_modified": 0,
+      "path": 0,
+      "pubdate": 100,
+      "publisher": 98,
+      "rating": 75,
+      "series": 0,
+      "size": 0,
+      "tags": 61,
+      "timestamp": 89,
+      "title": 170
+    },
+    "formats_injected": true,
     "hidden_columns": [
       "id",
       "size",
@@ -14,10 +51,9 @@
       "last_modified",
       "languages"
     ],
-    "last_modified_injected": true,
-    "languages_injected": true,
-    "formats_injected": true,
     "id_injected": true,
+    "languages_injected": true,
+    "last_modified_injected": true,
     "path_injected": true,
     "sort_history": [
       [
@@ -32,43 +68,7 @@
         "timestamp",
         false
       ]
-    ],
-    "column_positions": {
-      "ondevice": 0,
-      "id": 13,
-      "title": 2,
-      "authors": 3,
-      "timestamp": 4,
-      "size": 8,
-      "rating": 5,
-      "tags": 7,
-      "series": 10,
-      "publisher": 9,
-      "formats": 14,
-      "path": 15,
-      "pubdate": 6,
-      "last_modified": 11,
-      "languages": 12,
-      "#lastopened": 1
-    },
-    "column_sizes": {
-      "id": 0,
-      "title": 170,
-      "authors": 106,
-      "timestamp": 89,
-      "size": 0,
-      "rating": 75,
-      "tags": 61,
-      "series": 0,
-      "publisher": 98,
-      "formats": 0,
-      "path": 0,
-      "pubdate": 100,
-      "last_modified": 0,
-      "languages": 0,
-      "#lastopened": 100
-    },
-    "column_alignment": {}
+    ]
   },
   "books view split pane state": {
     "column_positions": {
@@ -110,12 +110,12 @@
   },
   "gui_view_history": [
     [
-      73,
-      "Computer Science Distilled: Learn the Art of Solving Computational Problems"
-    ],
-    [
       127,
       "Learning UML 2.0"
+    ],
+    [
+      73,
+      "Computer Science Distilled: Learn the Art of Solving Computational Problems"
     ],
     [
       132,
@@ -924,5 +924,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1701344820.7714298
+  "last_expired_trash_at": 1702662845.8374915
 }
