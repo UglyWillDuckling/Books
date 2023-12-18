@@ -7,13 +7,25 @@
         <dc:creator opf:file-as="Russ Miles" opf:role="aut">Russ Miles</dc:creator>
         <dc:creator opf:file-as="Russ Miles" opf:role="aut">Kim Hamilton</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.2.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2008-12-16T23:00:00+00:00</dc:date>
-        <dc:description>&lt;p&gt;Engaging and accessible, this book shows you how to use UML to craft and communicate your project's design. Russ Miles and Kim Hamilton have written a pragmatic introduction to UML based on hard-earned practice, not theory. Regardless of the software process or methodology you use, this book is the one source you need to get up and running with UML 2.0.&lt;/p&gt;</dc:description>
-        <dc:publisher>O'Reilly Media</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780596159450</dc:identifier>
+        <dc:date>2006-04-25T13:40:00.673503+00:00</dc:date>
+        <dc:description>&lt;p&gt;"Since its original introduction in 1997, the Unified Modeling Language has revolutionized software development. Every integrated software development environment in the world--open-source, standards-based, and proprietary--now supports UML and, more importantly, the model-driven approach to software development. This makes learning the newest UML standard, UML 2.0, critical for all software developers--and there isn't a better choice than this clear, step-by-step guide to learning the language.&lt;/p&gt;
+
+&lt;p&gt;"--Richard Mark Soley, Chairman and CEO, OMG If you're like most software developers, you're building systems that are increasingly complex. Whether you're creating a desktop application or an enterprise system, complexity is the big hairy monster you must manage.&lt;/p&gt;
+
+&lt;p&gt;The Unified Modeling Language (UML) helps you manage this complexity. Whether you're looking to use UML as a blueprint language, a sketch tool, or as a programming language, this book will give you the need-to-know information on how to apply UML to your project. While there are plenty of books available that describe UML, Learning UML 2.0 will show you how to use it. Topics covered include:Capturing your system's requirements in your model to help you ensure that your designs meet your users' needsModeling the parts of your system and their relationshipsModeling how the parts of your system work together to meet your system's requirementsModeling how your system moves into the real world, capturing how your system will be deployedEngaging and accessible, this book shows you how to use UML to craft and communicate your project's design. Russ Miles and Kim Hamilton have written a pragmatic introduction to UML based on hard-earned practice, not theory. Regardless of the software process or methodology you use, this book is the one source you need to get up and running with UML 2.0. Additional information including exercises can be found at www.learninguml2.com.&lt;/p&gt;
+
+&lt;p&gt;Russ Miles is a software engineer for General Dynamics UK, where he works with Java and Distributed Systems, although his passion at the moment is Aspect Orientation and, in particular, AspectJ. Kim Hamilton is a senior software engineer at Northrop Grumman, where she's designed and implemented a variety of systems including web applications and distributed systems, with frequent detours into algorithms development.&lt;/p&gt;</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780596009823</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">BUKbAgAAQBAJ</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>COMPUTERS / Software Development &amp; Engineering / General</dc:subject>
+        <dc:subject>Systems Analysis &amp; Design</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>Languages</dc:subject>
         <dc:subject>reading</dc:subject>
+        <dc:subject>COMPUTERS / Software Development &amp; Engineering / General</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Computers</dc:subject>
         <meta name="calibre:timestamp" content="2023-11-06T20:53:03+00:00"/>
         <meta name="calibre:title_sort" content="Learning UML 2.0"/>
         <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2023-12-18T13:38:00.975270+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
