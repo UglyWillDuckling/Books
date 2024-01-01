@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7348b6a-abdb-425d-8373-a10064bec10c</dc:identifier>
+        <dc:title>A Wizard of Earthsea: The First Book of Earthsea</dc:title>
+        <dc:creator opf:file-as="Guin, Ursula K. le" opf:role="aut">Ursula K. le Guin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-27T22:19:36+00:00</dc:date>
+        <dc:description>&lt;p&gt;Ged, the greatest sorcerer in all Earthsea, was called Sparrowhawk in his reckless youth. Hungry for power and knowledge, Sparrowhawk tampered with long-held secrets and loosed a terrible shadow upon the world. This is the tale of his testing, how he mastered the mighty words of power, tamed an ancient dragon, and crossed death's threshold to restore the balance.&lt;/p&gt;</dc:description>
+        <dc:publisher>Hachette UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781473208452</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00VRT46BM</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">XOjkBwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>fantasy</dc:subject>
+        <dc:subject>kindle</dc:subject>
+        <dc:subject>sf</dc:subject>
+        <dc:subject>Fantasy &amp; Magic</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:series" content="Earthsea"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-12-30T22:19:23+00:00"/>
+        <meta name="calibre:title_sort" content="Wizard of Earthsea: The First Book of Earthsea, A"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2023-12-31T19:32:02.472277+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
