@@ -110,6 +110,10 @@
   },
   "gui_view_history": [
     [
+      134,
+      "Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People"
+    ],
+    [
       135,
       "A Wizard of Earthsea: The First Book of Earthsea"
     ],
@@ -120,10 +124,6 @@
     [
       126,
       "Seidl M Scholz M Huemer C Kappel G Uml Classroom An Introduction To Objectoriented Modeling"
-    ],
-    [
-      134,
-      "Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People"
     ],
     [
       134,
@@ -924,5 +924,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1704037495.3363972
+  "last_expired_trash_at": 1704142391.8775117
 }
