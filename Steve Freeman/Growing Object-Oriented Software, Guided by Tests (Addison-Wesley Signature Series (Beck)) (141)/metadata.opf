@@ -25,14 +25,14 @@
 &lt;p&gt;&lt;strong&gt;Nat Pryce&lt;/strong&gt; has worked as a programmer, architect, trainer, and consultant in a variety of industries, including sports reportage, marketing communications, retail, telecoms, and finance. With a Ph.D. from Imperial College London, he has also worked on research projects and does occasional university teaching. An early adopter of Extreme Programming, he has written or contributed to several open source libraries that support Test Driven Development. He was one of the founding organizers of the London XPDay and regularly presents at international conferences. Nat is based in London, UK.&lt;/p&gt;
 &lt;p&gt;Freeman and Pryce were joint winners of the 2006 Agile Alliance Gordon Pask award.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Addison-Wesley Professional</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">B002TIOYVW</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B002TIOYVW</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B002TIOYVW</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>programming</dc:subject>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2024-03-04T14:06:01.872242+00:00"/>
+        <meta name="calibre:timestamp" content="2024-03-04T14:06:01+00:00"/>
         <meta name="calibre:title_sort" content="Growing Object-Oriented Software, Guided by Tests (Addison-Wesley Signature Series (Beck))"/>
-        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2024-03-04T15:46:05+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>
