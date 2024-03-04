@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93854cda-f446-4b34-b0ae-50228147cf21</dc:identifier>
+        <dc:title>Object design : roles, responsibilities, and collaborations</dc:title>
+        <dc:creator opf:file-as="Wirfs-Brock, Rebecca" opf:role="aut">Wirfs-Brock, Rebecca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-15T10:05:52+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>Object-oriented methods (Computer science)</dc:subject>
+        <dc:subject>https://archive.org/details/objectdesignrole0000wirf</dc:subject>
+        <meta name="calibre:timestamp" content="2024-02-11T19:24:56.876042+00:00"/>
+        <meta name="calibre:title_sort" content="Object design : roles, responsibilities, and collaborations"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2024-02-11T19:25:01.107581+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

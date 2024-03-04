@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b94ca1bb-c77b-4f1d-9c3f-bb6352002b25</dc:identifier>
+        <dc:title>Growing Object-Oriented Software, Guided by Tests (Addison-Wesley Signature Series (Beck))</dc:title>
+        <dc:creator opf:file-as="Freeman, Steve &amp; Pryce, Nat" opf:role="aut">Steve Freeman</dc:creator>
+        <dc:creator opf:file-as="Freeman, Steve &amp; Pryce, Nat" opf:role="aut">Nat Pryce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-11T20:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Test-Driven Development (TDD) is now an established technique for delivering better software faster. TDD is based on a simple idea: Write tests for your code before you write the code itself. However, this "simple" idea takes skill and judgment to do well. Now there's a practical guide to TDD that takes you beyond the basic concepts. Drawing on a decade of experience building real-world systems, two TDD pioneers show how to let tests guide your development and “grow” software that is coherent, reliable, and maintainable.&lt;/p&gt;
+&lt;p&gt;Steve Freeman and Nat Pryce describe the processes they use, the design principles they strive to achieve, and some of the tools that help them get the job done. Through an extended worked example, you’ll learn how TDD works at multiple levels, using tests to drive the features and the object-oriented structure of the code, and using Mock Objects to discover and then describe relationships between objects. Along the way, the book systematically addresses challenges that development teams encounter with TDD—from integrating TDD into your processes to testing your most difficult features. Coverage includes &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Implementing TDD effectively: getting started, and maintaining your momentum throughout the project&lt;/li&gt;
+&lt;li&gt;Creating cleaner, more expressive, more sustainable code&lt;/li&gt;
+&lt;li&gt;Using tests to stay relentlessly focused on sustaining quality&lt;/li&gt;
+&lt;li&gt;Understanding how TDD, Mock Objects, and Object-Oriented Design come together in the context of a real software development project&lt;/li&gt;
+&lt;li&gt;Using Mock Objects to guide object-oriented designs&lt;/li&gt;
+&lt;li&gt;Succeeding where TDD is difficult: managing complex test data, and testing persistence and concurrency&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Foreword by Kent Beck ""The authors of this book have led a revolution in the craft of programming by controlling the environment in which software grows." "--Ward Cunningham " " ""At last, a book suffused with code that exposes the deep symbiosis between TDD and OOD. This one's a keeper." "--Robert C. Martin ""If you want to be an expert in the state of the art in TDD, you need to understand the ideas in this book."--"Michael Feathers Test-Driven Development (TDD) is now an established technique for delivering better software faster. TDD is based on a simple idea: Write tests for your code before you write the code itself. However, this "simple" idea takes skill and judgment to do well. Now there's a practical guide to TDD that takes you beyond the basic concepts. Drawing on a decade of experience building real-world systems, two TDD pioneers show how to let tests guide your development and "grow" software that is coherent, reliable, and maintainable. Steve Freeman and Nat Pryce describe the processes they use, the design principles they strive to achieve, and some of the tools that help them get the job done. Through an extended worked example, you'll learn how TDD works at multiple levels, using tests to drive the features and the object-oriented structure of the code, and using Mock Objects to discover and then describe relationships between objects. Along the way, the book systematically addresses challenges that development teams encounter with TDD--from integrating TDD into your processes to testing your most difficult features. Coverage includes - Implementing TDD effectively: getting started, and maintaining your momentum throughout the project - Creating cleaner, more expressive, more sustainable code - Using tests to stay relentlessly focused on sustaining quality - Understanding how TDD, Mock Objects, and Object-Oriented Design come together in the context of a real software development project - Using Mock Objects to guide object-oriented designs - Succeeding where TDD is difficult: managing complex test data, and testing persistence and concurrency &lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Steve Freeman&lt;/strong&gt; is an independent consultant specializing in Agile software development. A founder member of the London Extreme Tuesday Club, he was chair of the first XPDay and is a frequent organizer and presenter at international conferences. Steve has worked in a variety of organizations, from writing shrink-wrap software for IBM, to prototyping for major research laboratories. Steve has a Ph.D. from Cambridge University, and degrees in statistics and music. Steve is based in London, UK.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nat Pryce&lt;/strong&gt; has worked as a programmer, architect, trainer, and consultant in a variety of industries, including sports reportage, marketing communications, retail, telecoms, and finance. With a Ph.D. from Imperial College London, he has also worked on research projects and does occasional university teaching. An early adopter of Extreme Programming, he has written or contributed to several open source libraries that support Test Driven Development. He was one of the founding organizers of the London XPDay and regularly presents at international conferences. Nat is based in London, UK.&lt;/p&gt;
+&lt;p&gt;Freeman and Pryce were joint winners of the 2006 Agile Alliance Gordon Pask award.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B002TIOYVW</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B002TIOYVW</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>programming</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-03-04T14:06:01.872242+00:00"/>
+        <meta name="calibre:title_sort" content="Growing Object-Oriented Software, Guided by Tests (Addison-Wesley Signature Series (Beck))"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

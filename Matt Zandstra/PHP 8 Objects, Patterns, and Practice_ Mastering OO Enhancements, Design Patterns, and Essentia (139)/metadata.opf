@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">62ad6eba-0833-4be1-82a0-ffa89602a1b7</dc:identifier>
         <dc:title>PHP 8 Objects, Patterns, and Practice: Mastering OO Enhancements, Design Patterns, and Essential Development Tools</dc:title>
         <dc:creator opf:file-as="Zandstra, Matt" opf:role="aut">Matt Zandstra</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.1.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.2.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:publisher>Apress</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781484267912</dc:identifier>
