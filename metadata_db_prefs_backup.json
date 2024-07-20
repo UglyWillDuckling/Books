@@ -110,6 +110,38 @@
   },
   "gui_view_history": [
     [
+      148,
+      "Smalltalk Best Practice Patterns"
+    ],
+    [
+      146,
+      "Chapter 1: Preliminaries\u2014Os(OO) and Design Patterns 101"
+    ],
+    [
+      143,
+      "This Changes Everything"
+    ],
+    [
+      138,
+      "Object-Oriented Project Management With UML"
+    ],
+    [
+      142,
+      "The Dawn of Everything: A New History of Humanity"
+    ],
+    [
+      95,
+      "Computers and Thought"
+    ],
+    [
+      83,
+      "Advances in Programming and Non-Numerical Computation"
+    ],
+    [
+      88,
+      "Object-Oriented Software Construction"
+    ],
+    [
       141,
       "Growing Object-Oriented Software, Guided by Tests (Addison-Wesley Signature Series (Beck))"
     ],
@@ -136,38 +168,6 @@
     [
       126,
       "Seidl M Scholz M Huemer C Kappel G Uml Classroom An Introduction To Objectoriented Modeling"
-    ],
-    [
-      134,
-      "Grokking Algorithms: An illustrated guide for programmers and other curious people"
-    ],
-    [
-      73,
-      "Computer Science Distilled: Learn the Art of Solving Computational Problems"
-    ],
-    [
-      132,
-      "Eloquent JavaScript"
-    ],
-    [
-      123,
-      "Full page fax print"
-    ],
-    [
-      131,
-      "Marijn Haverbeke Eloquent Javascript A Modern Introduction To Programming No Starch Press 2018"
-    ],
-    [
-      128,
-      "JavaScript with Promises"
-    ],
-    [
-      122,
-      "My People Shall Live: Autobiography of a Revolutionary"
-    ],
-    [
-      119,
-      "The Computer and the Brain"
     ]
   ],
   "field_metadata": {
@@ -917,12 +917,13 @@
   "cover_grid_icon_rules": [],
   "update_all_last_mod_dates_on_start": false,
   "virt_libs_hidden": [
-    "Object Oriented Programming"
+    "Object Oriented Programming",
+    "Reading"
   ],
   "grouped_search_make_user_categories": [],
   "virt_libs_order": [
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1709567151.9075007
+  "last_expired_trash_at": 1721508805.797043
 }

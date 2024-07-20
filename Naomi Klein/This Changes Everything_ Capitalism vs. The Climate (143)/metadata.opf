@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">143</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bea44a02-40f6-4e89-992f-112c8576a2ed</dc:identifier>
+        <dc:title>This Changes Everything: Capitalism vs. The Climate</dc:title>
+        <dc:creator opf:file-as="Klein, Naomi" opf:role="aut">Naomi Klein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-16T20:31:48.393528+00:00</dc:date>
+        <dc:description>&lt;p&gt;The most important book yet from the author of the international bestseller The Shock Doctrine, a brilliant explanation of why the climate crisis challenges us to abandon the core “free market” ideology of our time, restructure the global economy, and remake our political systems.&lt;/p&gt;
+
+&lt;p&gt;In short, either we embrace radical change ourselves or radical changes will be visited upon our physical world. The status quo is no longer an option. In This Changes Everything Naomi Klein argues that climate change isn’t just another issue to be neatly filed between taxes and health care. It’s an alarm that calls us to fix an economic system that is already failing us in many ways. Klein meticulously builds the case for how massively reducing our greenhouse emissions is our best chance to simultaneously reduce gaping inequalities, re-imagine our broken democracies, and rebuild our gutted local economies. She exposes the ideological desperation of the climate-change deniers, the messianic delusions of the would-be geoengineers, and the tragic defeatism of too many mainstream green initiatives. And she demonstrates precisely why the market has not—and cannot—fix the climate crisis but will instead make things worse, with ever more extreme and ecologically damaging extraction methods, accompanied by rampant disaster capitalism. Klein argues that the changes to our relationship with nature and one another that are required to respond to the climate crisis humanely should not be viewed as grim penance, but rather as a kind of gift—a catalyst to transform broken economic and cultural priorities and to heal long-festering historical wounds. And she documents the inspiring movements that have already begun this process: communities that are not just refusing to be sites of further fossil fuel extraction but are building the next, regeneration-based economies right now. Can we pull off these changes in time? Nothing is certain. Nothing except that climate change changes everything. And for a very brief time, the nature of that change is still up to us.&lt;/p&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781451697407</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">lgZZAwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>International</dc:subject>
+        <dc:subject>Economics &amp; Trade</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Public Policy</dc:subject>
+        <dc:subject>Environmental Policy</dc:subject>
+        <dc:subject>Economic Policy</dc:subject>
+        <meta name="calibre:timestamp" content="2024-06-02T20:30:07.068441+00:00"/>
+        <meta name="calibre:title_sort" content="This Changes Everything: Capitalism vs. The Climate"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2024-06-02T20:31:05.865571+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

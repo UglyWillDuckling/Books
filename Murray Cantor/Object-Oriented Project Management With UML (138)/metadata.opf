@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">138</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65f06939-9f4a-4c3c-8546-8c6fc103665f</dc:identifier>
+        <dc:title>Object-Oriented Project Management With UML</dc:title>
+        <dc:creator opf:file-as="Cantor, Murray" opf:role="aut">Murray Cantor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-08-17T20:24:56.579567+00:00</dc:date>
+        <dc:description>&lt;p&gt;Almost all software projects are risky. The goal of every project manager is to somehow deal with the cost and schedule uncertainty while meeting your customer's needs. In Object-Oriented Project Management with UML, Murray Cantor describes an elegant, UML-based approach to managing object-oriented projects guaranteed to deliver high-quality software on time and within budget.  Drawing on his experience managing major software projects at IBM and TASC, Cantor supplies you with: * Proven ways to reap the benefits of using UML tools to tame most project demons and deliver optimal OO systems * Tips on integrating object-based techniques with traditional methods for project planning, risk management, scheduling, time-phased budgeting, and more * Expert advice on how to handle all the important "people" issues that crop up during a development project * Real-life war stories that let you see firsthand what worked and what didn't on several major development projects * A full-length project example that walks you through every phase of a project told in terms of problems and solutions  Visit the companion Web site at www.wiley.com/compbooks/cantor to find: * Sample project schedules, budgets, database templates for managing use cases, and a work-breakdown structure * A spreadsheet workbook for managing incremental development * A development tracking diagram  Prior to joining TASC, Dr. Cantor was a development manager at IBM, where he oversaw the development of high-end graphics and multimedia systems.&lt;/p&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">P2tGAAAAYAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780471253037</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Distributed Systems</dc:subject>
+        <dc:subject>Client-Server Computing</dc:subject>
+        <dc:subject>programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-02-01T10:27:14+00:00"/>
+        <meta name="calibre:title_sort" content="Object-Oriented Project Management With UML"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2024-04-22T20:25:22.662985+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
