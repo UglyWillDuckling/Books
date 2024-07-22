@@ -110,6 +110,10 @@
   },
   "gui_view_history": [
     [
+      150,
+      "SmalltalkVTutorial"
+    ],
+    [
       148,
       "Smalltalk Best Practice Patterns"
     ],
@@ -164,10 +168,6 @@
     [
       127,
       "Learning UML 2.0"
-    ],
-    [
-      126,
-      "Seidl M Scholz M Huemer C Kappel G Uml Classroom An Introduction To Objectoriented Modeling"
     ]
   ],
   "field_metadata": {
@@ -925,5 +925,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1721508805.797043
+  "last_expired_trash_at": 1721673244.878076
 }
