@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">142</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70e2812b-b789-4130-8c1c-9036fe8a7df4</dc:identifier>
+        <dc:title>Learning TypeScript</dc:title>
+        <dc:creator opf:file-as="Goldberg, Josh" opf:role="aut">Josh Goldberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-10T05:00:00+00:00</dc:date>
+        <dc:description>&lt;span&gt;&lt;div&gt;&lt;p&gt;TypeScript has conquered the world of JavaScript: it's one of the world's fastest growing and most popular languages across developer surveys, widely used in consumer and business companies alike, and frequently credited for helping massive web applications scale. But what is TypeScript? How does it work, why does it work, and how can we use it?&lt;/p&gt;&lt;p&gt;&lt;i&gt;Learning TypeScript&lt;/i&gt; takes beginner to intermediate JavaScript programmers from knowing nothing about "types" or a "type system" to full mastery of the fundamentals of TypeScript. It's more than a means to find bugs and typos--it's a useful system for declaring the way our JavaScript should work and helping us stick to it. You'll learn how TypeScript:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;interacts with JavaScript&lt;/li&gt;&lt;li&gt;analyzes and understands code&lt;/li&gt;&lt;li&gt;augments your existing development pattern&lt;/li&gt;&lt;li&gt;helps you document your code&lt;/li&gt;&lt;li&gt;works with IDEs to provide refactoring tools&lt;/li&gt;&lt;li&gt;assists local development in refactoring code&lt;/li&gt;&lt;li&gt;helps you develop more quickly with fewer bugs&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">09aa2507-9801-4d55-8ee7-44c13302288b</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781098110338</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-23T21:11:53+00:00"/>
+        <meta name="calibre:title_sort" content="Learning TypeScript"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2024-07-24T08:44:06.670441+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
