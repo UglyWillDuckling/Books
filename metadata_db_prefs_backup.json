@@ -110,6 +110,10 @@
   },
   "gui_view_history": [
     [
+      153,
+      "Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript"
+    ],
+    [
       150,
       "SmalltalkVTutorial"
     ],
@@ -164,10 +168,6 @@
     [
       135,
       "A Wizard of Earthsea: The First Book of Earthsea"
-    ],
-    [
-      127,
-      "Learning UML 2.0"
     ]
   ],
   "field_metadata": {
@@ -925,5 +925,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1721828858.9491825
+  "last_expired_trash_at": 1722448685.1214476
 }
