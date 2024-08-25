@@ -110,6 +110,14 @@
   },
   "gui_view_history": [
     [
+      152,
+      "TypeScript Design Patterns: Boost your development efficiency by learning about design patterns in TypeScript"
+    ],
+    [
+      151,
+      "Smalltalk V : practice and experience"
+    ],
+    [
       153,
       "Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript"
     ],
@@ -160,14 +168,6 @@
     [
       137,
       "5710255"
-    ],
-    [
-      134,
-      "Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People"
-    ],
-    [
-      135,
-      "A Wizard of Earthsea: The First Book of Earthsea"
     ]
   ],
   "field_metadata": {
@@ -925,5 +925,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1723132210.9157116
+  "last_expired_trash_at": 1723906828.3237047
 }
