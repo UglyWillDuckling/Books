@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">152</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2207799-40d8-4643-abea-f6033867af3d</dc:identifier>
+        <dc:title>TypeScript Design Patterns</dc:title>
+        <dc:creator opf:file-as="Vane, Vilic" opf:role="aut">Vilic Vane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-29T00:00:00+00:00</dc:date>
+        <dc:description>&lt;h4&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;This step-by-step guide will would demonstrate all the important design patterns in practice&lt;/li&gt;
+&lt;li&gt;This book is the only documentation on the market focusing on design patterns in TypeScript&lt;/li&gt;
+&lt;li&gt;This book is packed with rich examples that will improve your efficiency and encourage code reuse&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;In programming, there are several problems that occur frequently. To solve these problems, there are various repeatable solutions that are known as design patterns. Design patterns are a great way to improve the efficiency of your programs and improve your productivity.&lt;/p&gt;
+&lt;p&gt;This book is a collection of the most important patterns you need to improve your applications’ performance and your productivity. The journey starts by explaining the current challenges when designing and developing an application and how you can solve these challenges by applying the correct design pattern and best practices.&lt;/p&gt;
+&lt;p&gt;Each pattern is accompanied with rich examples that demonstrate the power of patterns for a range of tasks, from building an application to code testing. We’ll introduce low-level programming concepts to help you write TypeScript code, as well as work with software architecture, best practices, and design aspects.&lt;/p&gt;
+&lt;h4&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the challenges and implications of developing an enterprise application&lt;/li&gt;
+&lt;li&gt;Install and configure the necessary tools in order to start developing an application&lt;/li&gt;
+&lt;li&gt;Identify the challenges when developing an application&lt;/li&gt;
+&lt;li&gt;Apply GoF patterns in an application with a testing approach&lt;/li&gt;
+&lt;li&gt;Use and utilize design patterns while developing a TypeScript application or during JavaScript application development&lt;/li&gt;
+&lt;li&gt;Reference to SOLID principles and what their benefits do to your projects&lt;/li&gt;
+&lt;li&gt;Apply various principles in a TypeScript application&lt;/li&gt;
+&lt;li&gt;Improve code quality and development speed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;About the Author&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Vilic Vane&lt;/strong&gt; is a JavaScript engineer with over 8 years of experience in web development. He started following the TypeScript project since it went public, and he’s also a contributor of the project. He is now working at Ruff, a startup company building an IoT platform that runs JavaScript on embedded devices.&lt;/p&gt;
+&lt;h4&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Tools and Frameworks&lt;/li&gt;
+&lt;li&gt;The Challenge of Increasing Complexity&lt;/li&gt;
+&lt;li&gt;Creational Design Patterns&lt;/li&gt;
+&lt;li&gt;Structural Design Patterns&lt;/li&gt;
+&lt;li&gt;Behavioral Design Patterns&lt;/li&gt;
+&lt;li&gt;Behavioral Design Patterns: Continuous&lt;/li&gt;
+&lt;li&gt;Patterns and Architectures in JavaScript and TypeScript&lt;/li&gt;
+&lt;li&gt;SOLID Principles&lt;/li&gt;
+&lt;li&gt;The Road to Enterprise Application&lt;/li&gt;
+&lt;/ol&gt;&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Vilic Vane is a JavaScript developer currently working in an IoT company that builds platforms for JavaScript development on embedded devices. Vilic has been writing JavaScript web applications (mostly SPA) for 7 years, using TypeScript in personal projects since version 1.0, and in team projects (Node.js) since version 1.5 alpha, with the number of team members scaled from 3 to 10 people. Vilic is the author of multiple frameworks and libraries and a contributor to TypeScript projects.&lt;/p&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B01BSTEDI6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>www.allitebooks.com</dc:subject>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2024-07-22T19:00:53+00:00"/>
+        <meta name="calibre:title_sort" content="TypeScript Design Patterns"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2024-08-17T15:04:28+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

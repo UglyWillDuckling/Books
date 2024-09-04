@@ -110,6 +110,34 @@
   },
   "gui_view_history": [
     [
+      141,
+      "Growing Object-Oriented Software, Guided by Tests (Addison-Wesley Signature Series (Beck))"
+    ],
+    [
+      155,
+      "Ross Harmes Dustin Diaz Auth Pro Javascript Design Patterns Apress 2008"
+    ],
+    [
+      153,
+      "Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript"
+    ],
+    [
+      156,
+      "Duca00y1SmalltalkLectures"
+    ],
+    [
+      149,
+      "TypeScript Design Patterns"
+    ],
+    [
+      83,
+      "Advances in Programming and Non-Numerical Computation"
+    ],
+    [
+      146,
+      "Chapter 1: Preliminaries\u2014Os(OO) and Design Patterns 101"
+    ],
+    [
       152,
       "TypeScript Design Patterns: Boost your development efficiency by learning about design patterns in TypeScript"
     ],
@@ -118,20 +146,12 @@
       "Smalltalk V : practice and experience"
     ],
     [
-      153,
-      "Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript"
-    ],
-    [
       150,
       "SmalltalkVTutorial"
     ],
     [
       148,
       "Smalltalk Best Practice Patterns"
-    ],
-    [
-      146,
-      "Chapter 1: Preliminaries\u2014Os(OO) and Design Patterns 101"
     ],
     [
       143,
@@ -148,26 +168,6 @@
     [
       95,
       "Computers and Thought"
-    ],
-    [
-      83,
-      "Advances in Programming and Non-Numerical Computation"
-    ],
-    [
-      88,
-      "Object-Oriented Software Construction"
-    ],
-    [
-      141,
-      "Growing Object-Oriented Software, Guided by Tests (Addison-Wesley Signature Series (Beck))"
-    ],
-    [
-      139,
-      "PHP 8 Objects, Patterns, and Practice: Mastering OO Enhancements, Design Patterns, and Essential Development Tools"
-    ],
-    [
-      137,
-      "5710255"
     ]
   ],
   "field_metadata": {
@@ -925,5 +925,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1723906828.3237047
+  "last_expired_trash_at": 1725120302.4211106
 }
