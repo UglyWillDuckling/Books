@@ -110,6 +110,18 @@
   },
   "gui_view_history": [
     [
+      158,
+      "Elegant Objects -- Yegor Bugayenko -- 1 0, 2016 -- CreateSpace Independent Publishing Platform -- 1519166915 -- 1195394a6b2fd8ed3ad4942a20f2f14d -- Anna\u2019s Archive"
+    ],
+    [
+      157,
+      "Design and Reality"
+    ],
+    [
+      139,
+      "PHP 8 Objects, Patterns, and Practice: Mastering OO Enhancements, Design Patterns, and Essential Development Tools"
+    ],
+    [
       141,
       "Growing Object-Oriented Software, Guided by Tests (Addison-Wesley Signature Series (Beck))"
     ],
@@ -156,18 +168,6 @@
     [
       143,
       "This Changes Everything"
-    ],
-    [
-      138,
-      "Object-Oriented Project Management With UML"
-    ],
-    [
-      142,
-      "The Dawn of Everything: A New History of Humanity"
-    ],
-    [
-      95,
-      "Computers and Thought"
     ]
   ],
   "field_metadata": {
@@ -925,5 +925,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1725120302.4211106
+  "last_expired_trash_at": 1726039793.466048
 }
