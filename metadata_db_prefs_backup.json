@@ -110,6 +110,10 @@
   },
   "gui_view_history": [
     [
+      159,
+      "The Geography of Hope: A Tour of the World We Need"
+    ],
+    [
       158,
       "Elegant Objects -- Yegor Bugayenko -- 1 0, 2016 -- CreateSpace Independent Publishing Platform -- 1519166915 -- 1195394a6b2fd8ed3ad4942a20f2f14d -- Anna\u2019s Archive"
     ],
@@ -164,10 +168,6 @@
     [
       148,
       "Smalltalk Best Practice Patterns"
-    ],
-    [
-      143,
-      "This Changes Everything"
     ]
   ],
   "field_metadata": {
@@ -925,5 +925,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1726039793.466048
+  "last_expired_trash_at": 1727080411.2264376
 }
