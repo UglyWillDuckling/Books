@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f1326ec-5697-4d8a-80d2-198106e45c6c</dc:identifier>
+        <dc:title>The Geography of Hope: A Tour of the World We Need</dc:title>
+        <dc:creator opf:file-as="Turner, Chris" opf:role="aut">Chris Turner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-30T08:34:29.355222+00:00</dc:date>
+        <dc:description>&lt;p&gt;After the fierce warnings and grim predictions of The Weather Makers and An Inconvenient Truth, acclaimed journalist and national bestselling author Chris Turner finds hope in the search for a sustainable future. Point of no return: The chilling phrase has become the ubiquitous mantra of ecological doomsayers, a troubling headline above stories of melting permafrost and receding ice caps, visions of catastrophe and fears of a problem with no solution. Daring to step beyond the rhetoric of panic and despair, The Geography of Hope points to the bright light at the end of this very dark tunnel. With a mix of front-line reporting, analysis and passionate argument, Chris Turner pieces together the glimmers of optimism amid the gloom and the solutions already at work around the world, from Canada’s largest wind farm to Asia’s greenest building and Europe’s most eco-friendly communities. But The Geography of Hope goes far beyond mere technology. Turner seeks out the next generation of political, economic, social and spiritual institutions that could provide the global foundations for a sustainable future–from the green hills of northern Thailand to the parliament houses of Scandinavia, from the villages of southern India, where microcredit finance has remade the social fabric, to America’s most forward-thinking think tanks. In this compelling first-person exploration, punctuated by the wonder and angst of a writer discovering the world’s beacons of possibility, Chris Turner pieces together a dazzling map of the disparate landmarks in a geography of hope.  While most of the world has been spinning in stagnant circles of recrimination and debate on the subject of climate change, paralyzed by visions of apocalypse both natural (if nothing of our way of life changes) and economic (if too much does), Denmark has simply marched off with steadfast resolve into the sustainable future, reaching the zenith of its pioneering trek on the island of Samsø. And so if there’s an encircled star on this patchwork map indicating hope’ s modest capital, then it should be properly placed on this island. Perhaps, for the sake of precision, at the geographic centre of Jørgen Tranberg’s dairy farm. There are, I’m sure, any number of images called to mind by talk of ecological revolution and renewable energy and sustainable living, but I’m pretty certain they don’t generally include a hearty fiftysomething Dane in rubber boots spotted with mud and cow shit. Which is why Samsø’s transformation is not just revolutionary but inspiring, not just a huge change but a tantalizingly attainable one. And it was a change that seemed at its most workaday–near-effortless, no more remarkable than the cool October wind gusting across the island–down on Tranberg’s farm. —from The Geography of Hope&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House of Canada</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307366085</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">u_tKBProQnYC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nature</dc:subject>
+        <dc:subject>Environmental Conservation &amp; Protection</dc:subject>
+        <dc:subject>Sustainable Development</dc:subject>
+        <dc:subject>Environmental Policy</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>development</dc:subject>
+        <dc:subject>Public Policy</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <meta name="calibre:timestamp" content="2024-09-23T08:33:31.823176+00:00"/>
+        <meta name="calibre:title_sort" content="Geography of Hope: A Tour of the World We Need, The"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: {&quot;__class__&quot;: &quot;datetime.datetime&quot;, &quot;__value__&quot;: &quot;2024-09-23T08:34:43.567696+00:00&quot;}, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
