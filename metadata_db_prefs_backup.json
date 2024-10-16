@@ -110,6 +110,10 @@
   },
   "gui_view_history": [
     [
+      160,
+      "Refactoring"
+    ],
+    [
       159,
       "The Geography of Hope: A Tour of the World We Need"
     ],
@@ -164,10 +168,6 @@
     [
       150,
       "SmalltalkVTutorial"
-    ],
-    [
-      148,
-      "Smalltalk Best Practice Patterns"
     ]
   ],
   "field_metadata": {
@@ -925,5 +925,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1727080411.2264376
+  "last_expired_trash_at": 1727874126.1756856
 }
