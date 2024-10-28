@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">163</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e8e494c-7e85-4475-9bec-11d3b4f626fc</dc:identifier>
+        <dc:title>The Shock Doctrine: The Rise of Disaster Capitalism</dc:title>
+        <dc:creator opf:file-as="Klein, Naomi" opf:role="aut">Naomi Klein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-02T17:03:54.785258+00:00</dc:date>
+        <dc:description>&lt;p&gt;'Impassioned, hugely informative, wonderfully controversial, and scary as hell' John le CarréAround the world in Britain, the United States, Asia and the Middle East, there are people with power who are cashing in on chaos; exploiting bloodshed and catastrophe to brutally remake our world in their image. They are the shock doctors.&lt;/p&gt;
+
+&lt;p&gt;Exposing these global profiteers, Naomi Klein discovered information and connections that shocked even her about how comprehensively the shock doctors' beliefs now dominate our world - and how this domination has been achieved. Raking in billions out of the tsunami, plundering Russia, exploiting Iraq - this is the chilling tale of how a few are making a killing while more are getting killed. 'Packed with thinking dynamite ... a book to be read everywhere' John Berger 'If you only read one non-fiction book this year, make it this one' Metro Books of the Year 'There are a few books that really help us understand the present. The Shock Doctrine is one of those books' John Gray, Guardian 'A brilliant book written with a perfectly distilled anger, channelled through hard fact. She has indeed surpassed No Logo' Independent&lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin Books Limited</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141980867</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00NQIG8I6</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">cpmRBAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>kindle</dc:subject>
+        <dc:subject>International Relations</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>International</dc:subject>
+        <dc:subject>politics</dc:subject>
+        <dc:subject>Political Process</dc:subject>
+        <dc:subject>nonfiction</dc:subject>
+        <dc:subject>Theory</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T17:02:59.687522+00:00"/>
+        <meta name="calibre:title_sort" content="Shock Doctrine: The Rise of Disaster Capitalism, The"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

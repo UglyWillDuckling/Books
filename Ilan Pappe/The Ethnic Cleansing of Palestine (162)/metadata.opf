@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58575c1f-1f61-41dd-9311-afdbece93935</dc:identifier>
+        <dc:title>The Ethnic Cleansing of Palestine</dc:title>
+        <dc:creator opf:file-as="Pappé, Ilan" opf:role="aut">Ilan Pappé</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;The book that is providing a storm of controversy, from ‘Israel’s bravest historian’ (John Pilger)&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Renowned Israeli historian, Ilan Pappe's groundbreaking work on the formation of the State of Israel.&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;'Along with the late Edward Said, Ilan Pappe is the most eloquent writer of Palestinian history.'&lt;/strong&gt; NEW STATESMAN  &lt;/p&gt;
+&lt;p&gt;Between 1947 and 1949, over 400 Palestinian villages were deliberately destroyed, civilians were massacred and around a million men, women, and children were expelled from their homes at gunpoint.  &lt;/p&gt;
+&lt;p&gt;Denied for almost six decades, had it happened today it could only have been called 'ethnic cleansing'. Decisively debunking the myth that the Palestinian population left of their own accord in the course of this war, Ilan Pappe offers impressive archival evidence to demonstrate that, from its very inception, a central plank in Israel’s founding ideology was the forcible removal of the indigenous population. Indispensable for anyone interested in the current crisis in the Middle East.  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;'Ilan Pappe is &lt;strong&gt;Israel's bravest, most principled, most incisive historian&lt;/strong&gt;.' &lt;strong&gt;JOHN PILGER&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;'Pappe has opened up &lt;strong&gt;an important new line of inquiry into the vast and fateful subject of the Palestinian refugees&lt;/strong&gt;. His book is rewarding in other ways. It has at times an elegiac, even sentimental, character, recalling the lost, obliterated life of the Palestinian Arabs and imagining or regretting what Pappe believes could have been a better land of Palestine.'TIMES LITERARY **** SUPPLEMENT  &lt;/p&gt;
+&lt;p&gt;' &lt;strong&gt;A major intervention in an argument that will, and must, continue&lt;/strong&gt;. There's no hope of lasting Middle East peace while the ghosts of 1948 still walk.' INDEPENDENT&lt;/p&gt;</dc:description>
+        <dc:publisher>Oneworld Publications</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B005KR0M5Q</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00KT5W342</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:rating" content="9"/>
+        <meta name="calibre:timestamp" content="2024-10-22T16:57:32.929593+00:00"/>
+        <meta name="calibre:title_sort" content="Ethnic Cleansing of Palestine, The"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

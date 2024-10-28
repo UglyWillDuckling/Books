@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">161</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85567b87-0d9a-4002-9dc4-b973ae249321</dc:identifier>
+        <dc:title>On Palestine</dc:title>
+        <dc:creator opf:file-as="Chomsky, Noam &amp; Pappé, Ilan &amp; Barat, Frank" opf:role="aut">Noam Chomsky</dc:creator>
+        <dc:creator opf:file-as="Chomsky, Noam &amp; Pappé, Ilan &amp; Barat, Frank" opf:role="aut">Ilan Pappé</dc:creator>
+        <dc:creator opf:file-as="Chomsky, Noam &amp; Pappé, Ilan &amp; Barat, Frank" opf:role="aut">Frank Barat</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-17T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Operation Protective Edge, Israel's most recent assault on Gaza, left thousands of Palestinians dead and cleared the way for another Israeli land grab. The need to stand in solidarity with Palestinians has never been greater. Ilan Papp&amp;#233; and Noam Chomsky, two leading voices in the struggle to liberate Palestine, discuss the road ahead for Palestinians and how the international community can pressure Israel to end its human rights abuses against the people of Palestine. &lt;I&gt;On Palestine&lt;/I&gt; is the sequel to their acclaimed book &lt;I&gt;Gaza in Crisis&lt;/I&gt;.</dc:description>
+        <dc:publisher>Haymarket Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-1-60846-501-9</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Middle East</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-22T16:53:00.873247+00:00"/>
+        <meta name="calibre:title_sort" content="On Palestine"/>
+        <meta name="calibre:user_metadata:#lastopened" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;datetime&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;lastopened&quot;, &quot;search_terms&quot;: [&quot;#lastopened&quot;], &quot;label&quot;: &quot;lastopened&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;date_format&quot;: null, &quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
