@@ -110,8 +110,20 @@
   },
   "gui_view_history": [
     [
+      164,
+      "tmux 2"
+    ],
+    [
+      160,
+      "Refactoring: Improving the Design of Existing Code"
+    ],
+    [
       160,
       "Refactoring"
+    ],
+    [
+      158,
+      "Elegant Objects"
     ],
     [
       159,
@@ -156,18 +168,6 @@
     [
       146,
       "Chapter 1: Preliminaries\u2014Os(OO) and Design Patterns 101"
-    ],
-    [
-      152,
-      "TypeScript Design Patterns: Boost your development efficiency by learning about design patterns in TypeScript"
-    ],
-    [
-      151,
-      "Smalltalk V : practice and experience"
-    ],
-    [
-      150,
-      "SmalltalkVTutorial"
     ]
   ],
   "field_metadata": {
@@ -925,5 +925,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1727874126.1756856
+  "last_expired_trash_at": 1734198597.793546
 }
