@@ -110,6 +110,10 @@
   },
   "gui_view_history": [
     [
+      165,
+      "Digital Minimalism in Everyday Life"
+    ],
+    [
       164,
       "tmux 2"
     ],
@@ -164,10 +168,6 @@
     [
       83,
       "Advances in Programming and Non-Numerical Computation"
-    ],
-    [
-      146,
-      "Chapter 1: Preliminaries\u2014Os(OO) and Design Patterns 101"
     ]
   ],
   "field_metadata": {
@@ -925,5 +925,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1734198597.793546
+  "last_expired_trash_at": 1735917954.4322078
 }
