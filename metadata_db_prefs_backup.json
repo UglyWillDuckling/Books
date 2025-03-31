@@ -110,12 +110,20 @@
   },
   "gui_view_history": [
     [
-      165,
-      "Digital Minimalism in Everyday Life"
+      168,
+      "The Road to React"
     ],
     [
       164,
       "tmux 2"
+    ],
+    [
+      167,
+      "Brave New Words: How AI Will Revolutionize Education (and Why That's a Good Thing)"
+    ],
+    [
+      165,
+      "Digital Minimalism in Everyday Life"
     ],
     [
       160,
@@ -160,14 +168,6 @@
     [
       156,
       "Duca00y1SmalltalkLectures"
-    ],
-    [
-      149,
-      "TypeScript Design Patterns"
-    ],
-    [
-      83,
-      "Advances in Programming and Non-Numerical Computation"
     ]
   ],
   "field_metadata": {
@@ -925,5 +925,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1735917954.4322078
+  "last_expired_trash_at": 1743432548.3429873
 }
