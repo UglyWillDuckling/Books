@@ -110,6 +110,10 @@
   },
   "gui_view_history": [
     [
+      169,
+      "Pro Git"
+    ],
+    [
       168,
       "The Road to React"
     ],
@@ -164,10 +168,6 @@
     [
       153,
       "Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript"
-    ],
-    [
-      156,
-      "Duca00y1SmalltalkLectures"
     ]
   ],
   "field_metadata": {
@@ -925,5 +925,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1743432548.3429873
+  "last_expired_trash_at": 1744392483.8116784
 }
