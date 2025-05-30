@@ -110,6 +110,14 @@
   },
   "gui_view_history": [
     [
+      170,
+      "Object Design: Roles, Responsibilities, and Collaborations"
+    ],
+    [
+      141,
+      "Growing Object-Oriented Software, Guided by Tests (Addison-Wesley Signature Series (Beck))"
+    ],
+    [
       169,
       "Pro Git"
     ],
@@ -158,16 +166,8 @@
       "PHP 8 Objects, Patterns, and Practice: Mastering OO Enhancements, Design Patterns, and Essential Development Tools"
     ],
     [
-      141,
-      "Growing Object-Oriented Software, Guided by Tests (Addison-Wesley Signature Series (Beck))"
-    ],
-    [
       155,
       "Ross Harmes Dustin Diaz Auth Pro Javascript Design Patterns Apress 2008"
-    ],
-    [
-      153,
-      "Learning TypeScript: Enhance Your Web Development Skills Using Type-Safe JavaScript"
     ]
   ],
   "field_metadata": {
@@ -925,5 +925,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1744392483.8116784
+  "last_expired_trash_at": 1748554707.6895454
 }
