@@ -110,8 +110,20 @@
   },
   "gui_view_history": [
     [
-      170,
+      173,
       "Object Design: Roles, Responsibilities, and Collaborations"
+    ],
+    [
+      172,
+      "Visual Collaboration Tools"
+    ],
+    [
+      171,
+      "Designing Object-Oriented Software"
+    ],
+    [
+      171,
+      "Designing Object-Oriented Software -- Rebecca Wirfs-Brock, Brian Wilkerson, Lauren Wiener -- 1, PT, 1990 -- Prentice Hall P T R -- 9780136298250 -- 4d9b2bd967b47e6acddbcb74f6114bb7 -- Anna\u2019s Archive"
     ],
     [
       141,
@@ -156,18 +168,6 @@
     [
       158,
       "Elegant Objects -- Yegor Bugayenko -- 1 0, 2016 -- CreateSpace Independent Publishing Platform -- 1519166915 -- 1195394a6b2fd8ed3ad4942a20f2f14d -- Anna\u2019s Archive"
-    ],
-    [
-      157,
-      "Design and Reality"
-    ],
-    [
-      139,
-      "PHP 8 Objects, Patterns, and Practice: Mastering OO Enhancements, Design Patterns, and Essential Development Tools"
-    ],
-    [
-      155,
-      "Ross Harmes Dustin Diaz Auth Pro Javascript Design Patterns Apress 2008"
     ]
   ],
   "field_metadata": {
@@ -925,5 +925,5 @@
     "",
     "Object Oriented Programming"
   ],
-  "last_expired_trash_at": 1748554707.6895454
+  "last_expired_trash_at": 1748632901.7263887
 }
